@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#EFF396", "font": {"color": "white"}, "id": "viaplus by vinci highway", "label": "viaplus by vinci highway", "label_size": 10, "shape": "dot", "size": 10.0, "title": "viaplus by vinci highway:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "dxc", "label": "dxc", "label_size": 10, "shape": "dot", "size": 8, "title": "dxc"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "cirrus labs atbz", "label": "cirrus labs atbz", "label_size": 10, "shape": "dot", "size": 10.0, "title": "cirrus labs atbz:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "ibm", "label": "ibm", "label_size": 10, "shape": "dot", "size": 8, "title": "ibm"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "globant", "label": "globant", "label_size": 10, "shape": "dot", "size": 8, "title": "globant"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "rendezvous", "label": "rendezvous", "label_size": 10, "shape": "dot", "size": 10.0, "title": "rendezvous:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "ibridge techsoft", "label": "ibridge techsoft", "label_size": 10, "shape": "dot", "size": 10.0, "title": "ibridge techsoft:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "orion innovation", "label": "orion innovation", "label_size": 10, "shape": "dot", "size": 10.0, "title": "orion innovation:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "goachiev", "label": "goachiev", "label_size": 10, "shape": "dot", "size": 8, "title": "goachiev"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "virtusa", "label": "virtusa", "label_size": 10, "shape": "dot", "size": 8, "title": "virtusa"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "infosys", "label": "infosys", "label_size": 10, "shape": "dot", "size": 10.0, "title": "infosys:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "excel soft   ", "label": "excel soft   ", "label_size": 10, "shape": "dot", "size": 8, "title": "excel soft   "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "ncs pte ", "label": "ncs pte ", "label_size": 10, "shape": "dot", "size": 8, "title": "ncs pte "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "adroitent ites  ", "label": "adroitent ites  ", "label_size": 10, "shape": "dot", "size": 8, "title": "adroitent ites  "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "dell ", "label": "dell ", "label_size": 10, "shape": "dot", "size": 8, "title": "dell "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "mindtree", "label": "mindtree", "label_size": 10, "shape": "dot", "size": 8, "title": "mindtree"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "priya   ", "label": "priya   ", "label_size": 10, "shape": "dot", "size": 10.0, "title": "priya   :1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "wipro ", "label": "wipro ", "label_size": 10, "shape": "dot", "size": 8, "title": "wipro "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "apa engineering", "label": "apa engineering", "label_size": 10, "shape": "dot", "size": 10.0, "title": "apa engineering:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "puresoftware", "label": "puresoftware", "label_size": 10, "shape": "dot", "size": 10.0, "title": "puresoftware:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "curosys    ", "label": "curosys    ", "label_size": 10, "shape": "dot", "size": 8, "title": "curosys    "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "hcl ", "label": "hcl ", "label_size": 10, "shape": "dot", "size": 8, "title": "hcl "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "cno", "label": "cno", "label_size": 10, "shape": "dot", "size": 8, "title": "cno"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "human cloudsoft", "label": "human cloudsoft", "label_size": 10, "shape": "dot", "size": 8, "title": "human cloudsoft"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "oscar homes", "label": "oscar homes", "label_size": 10, "shape": "dot", "size": 8, "title": "oscar homes"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "realpage ", "label": "realpage ", "label_size": 10, "shape": "dot", "size": 8, "title": "realpage "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "wintech  ", "label": "wintech  ", "label_size": 10, "shape": "dot", "size": 8, "title": "wintech  "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "paris gallery", "label": "paris gallery", "label_size": 10, "shape": "dot", "size": 8, "title": "paris gallery"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "prodesk  llp", "label": "prodesk  llp", "label_size": 10, "shape": "dot", "size": 8, "title": "prodesk  llp"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "imeddoc    ", "label": "imeddoc    ", "label_size": 10, "shape": "dot", "size": 8, "title": "imeddoc    "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "cyient ", "label": "cyient ", "label_size": 10, "shape": "dot", "size": 8, "title": "cyient "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "idealake  ", "label": "idealake  ", "label_size": 10, "shape": "dot", "size": 8, "title": "idealake  "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "sagarsoft", "label": "sagarsoft", "label_size": 10, "shape": "dot", "size": 10.0, "title": "sagarsoft:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "gaman ", "label": "gaman ", "label_size": 10, "shape": "dot", "size": 8, "title": "gaman "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "blue door", "label": "blue door", "label_size": 10, "shape": "dot", "size": 10.0, "title": "blue door:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "infostretch ", "label": "infostretch ", "label_size": 10, "shape": "dot", "size": 10.0, "title": "infostretch :1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "potomac", "label": "potomac", "label_size": 10, "shape": "dot", "size": 10.0, "title": "potomac:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "pepsico  iscp", "label": "pepsico  iscp", "label_size": 10, "shape": "dot", "size": 10.0, "title": "pepsico  iscp:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "infosun   ", "label": "infosun   ", "label_size": 10, "shape": "dot", "size": 10.0, "title": "infosun   :1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "jeppiaar ", "label": "jeppiaar ", "label_size": 10, "shape": "dot", "size": 8, "title": "jeppiaar "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "incedo inc", "label": "incedo inc", "label_size": 10, "shape": "dot", "size": 10.0, "title": "incedo inc:1.0"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "bmw", "label": "bmw", "label_size": 10, "shape": "dot", "size": 8, "title": "bmw"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "nextgen innovation lab", "label": "nextgen innovation lab", "label_size": 10, "shape": "dot", "size": 8, "title": "nextgen innovation lab"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "hce secure it", "label": "hce secure it", "label_size": 10, "shape": "dot", "size": 8, "title": "hce secure it"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "hof everest", "label": "hof everest", "label_size": 10, "shape": "dot", "size": 8, "title": "hof everest"}, {"color": "#EFF396", "font": {"color": "white"}, "id": "imimobile  ", "label": "imimobile  ", "label_size": 10, "shape": "dot", "size": 8, "title": "imimobile  "}, {"color": "#EFF396", "font": {"color": "white"}, "id": "block8", "label": "block8", "label_size": 10, "shape": "dot", "size": 8, "title": "block8"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": "#F2613F", "from": "sagarsoft", "physics": false, "title": "sagarsoft to viaplus by vinci highway", "to": "viaplus by vinci highway"}, {"arrows": "to", "color": "#F2613F", "from": "gaman ", "physics": false, "title": "gaman  to cirrus labs atbz", "to": "cirrus labs atbz"}, {"arrows": "to", "color": "#F2613F", "from": "blue door", "physics": false, "title": "blue door to rendezvous", "to": "rendezvous"}, {"arrows": "to", "color": "#F2613F", "from": "infostretch ", "physics": false, "title": "infostretch  to ibridge techsoft", "to": "ibridge techsoft"}, {"arrows": "to", "color": "#F2613F", "from": "potomac", "physics": false, "title": "potomac to orion innovation", "to": "orion innovation"}, {"arrows": "to", "color": "#F2613F", "from": "pepsico  iscp", "physics": false, "title": "pepsico  iscp to infosys", "to": "infosys"}, {"arrows": "to", "color": "#F2613F", "from": "infosun   ", "physics": false, "title": "infosun    to priya   ", "to": "priya   "}, {"arrows": "to", "color": "#F2613F", "from": "jeppiaar ", "physics": false, "title": "jeppiaar  to apa engineering", "to": "apa engineering"}, {"arrows": "to", "color": "#F2613F", "from": "incedo inc", "physics": false, "title": "incedo inc to puresoftware", "to": "puresoftware"}, {"arrows": "to", "color": "White", "from": "dxc", "physics": false, "title": "dxc to sagarsoft", "to": "sagarsoft"}, {"arrows": "to", "color": "White", "from": "bmw", "physics": false, "title": "bmw to blue door", "to": "blue door"}, {"arrows": "to", "color": "White", "from": "nextgen innovation lab", "physics": false, "title": "nextgen innovation lab to infostretch ", "to": "infostretch "}, {"arrows": "to", "color": "White", "from": "hce secure it", "physics": false, "title": "hce secure it to potomac", "to": "potomac"}, {"arrows": "to", "color": "White", "from": "hof everest", "physics": false, "title": "hof everest to pepsico  iscp", "to": "pepsico  iscp"}, {"arrows": "to", "color": "White", "from": "imimobile  ", "physics": false, "title": "imimobile   to infosun   ", "to": "infosun   "}, {"arrows": "to", "color": "White", "from": "block8", "physics": false, "title": "block8 to incedo inc", "to": "incedo inc"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
