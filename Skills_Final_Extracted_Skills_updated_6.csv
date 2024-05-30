@@ -1,0 +1,951 @@
+,name,cities,final_technologies,Company_Latest,CompanyO1,CompanyO2,Tier_Latest,Tier_Old1,Tier_Old2
+0,madhavi meka java (1).docx,hyderabad,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+1,lakshmi_narayan.palla.docx,not specified,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+2,vineet.docx,gurgaon,"java, pega",accenture,mphasis,not specified,Tier-1,Tier-2,not specified
+3,t venkatesh kumar- a.docx,bengaluru,"java, python",jio platform  ajio,not specified,not specified,Tier-3,not specified,not specified
+4,resume - jun'23 (1).docx,pune,others,british petroleum,not specified,not specified,Tier-3,not specified,not specified
+5,pankaj kaushik.docx,noida,java,aristocrat,ingenuity,not specified,Tier-3,Tier-3,not specified
+6,ravi roogi.docx,bengaluru,java,sapiens,informatics publishing,sdlglobe,Tier-3,Tier-3,Tier-3
+7,naukri_raviteja[5y_6m].docx,bengaluru,pega,optus infotech,not specified,not specified,Tier-3,not specified,not specified
+8,janardhan madugula.docx,not specified,java,allegis,artech info,induct ,Tier-3,Tier-3,Tier-3
+9,naukri_rajeshkumar[6y_7m].docx,bengaluru,others,exl,slk  ,mphasis,Tier-3,Tier-3,Tier-2
+10,sivareddy.docx,bengaluru,java,innovation,not specified,not specified,Tier-3,not specified,not specified
+11,naukri_chaithanya[4y_1m].docx,not specified,python,tcs,not specified,not specified,Tier-1,not specified,not specified
+12,vamsikiran-a.docx,bengaluru,java,ltech ,blue rose,mphasis,Tier-3,Tier-3,Tier-2
+13,angothu jagan naik_1701084972044.docx,pune,java,umitas,fssfinancial  system,cognizant ,Tier-3,Tier-3,Tier-1
+14,bonda hari jaganth.docx,hyderabad,pega,tech mahindra,mindtrail,not specified,Tier-1,Tier-3,not specified
+15,venktesh reddy.docx,chennai,java,mphasis,not specified,not specified,Tier-2,not specified,not specified
+16,thumu suresh.docx,not specified,"java, pega, .net",not specified,not specified,not specified,not specified,not specified,not specified
+17,naukri_golivenkatasatyasrisathvik[4y_0m].docx,hyderabad,others,atos syntel,not specified,not specified,Tier-3,not specified,not specified
+18,pampapathi-kenchappa.docx,bengaluru,java,sapiens,mphasis,team ware ,Tier-3,Tier-2,Tier-3
+19,naukri_jangampalliavinash[4y_5m].docx,hyderabad,java,infosys,accenture,not specified,Tier-1,Tier-1,not specified
+20,naukri_immediateavailablebalakishanrao[8y_0m].docx,hyderabad,others,wipro,intellect bizware,not specified,Tier-1,Tier-3,not specified
+21,naukri_aspankaj[4y_5m].docx,not specified,"java, python",mphasis,not specified,not specified,Tier-2,not specified,not specified
+22,naukri_errisivakumar[3y_7m].docx,bengaluru,python,larsen  turbo,not specified,not specified,Tier-3,not specified,not specified
+23,harshitha shetty.docx,bengaluru,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+24,naukri_dushyantkumar[12y_0m].docx,not specified,others,publicis resources,ernst  young global,wipro,Tier-3,Tier-3,Tier-1
+25,innova_bhaskarpc_pega_cssa.docx,bengaluru,pega,sopra steria,joulestowatts business ,hcl,Tier-3,Tier-3,Tier-1
+26,poreddy ashok reddy.docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+27,naukri_khadirbasha[5y_1m].docx,bengaluru,java,capgemini,mphasis,not specified,Tier-1,Tier-2,not specified
+28,naukri_kurvapooja[5y_4m].docx,hyderabad,.net,volaris group tarantula,accenture,not specified,Tier-3,Tier-1,not specified
+29,naukri_venkateswarlumukaanti[4y_6m] (1).docx,not specified,java,hdfc,albertons,fedex,Tier-3,Tier-3,Tier-3
+30,sivaji_sr.test_lead.docx,hyderabad,others,noema,not specified,not specified,Tier-3,not specified,not specified
+31,naukri_rajanc[14y_0m].docx,mumbai,java,majesco,itc infotech,oracle,Tier-3,Tier-1,Tier-3
+32,naukri_talhanshaikh[4y_9m].docx,pune,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+33,naukri_thirunagarigopichaithanya[5y_0m].docx,hyderabad,"java, python",not specified,not specified,not specified,not specified,not specified,not specified
+34,naukri_rajeswari[4y_0m].docx,bengaluru,others,tcs,not specified,not specified,Tier-1,not specified,not specified
+35,job description 2.docx,not specified,python,not specified,not specified,not specified,not specified,not specified,not specified
+36,naukri_archanasharma[3y_0m].docx,new delhi,others,accel equity,delhi maritime academy,meraki dental studio,Tier-3,Tier-3,Tier-3
+37,naukri_nageswararaoyeruvala[5y_8m] (1).docx,hyderabad,java,hcl,not specified,not specified,Tier-1,not specified,not specified
+38,naukri_purnendukumarpradhan[4y_11m].docx,hyderabad,java,cgi,tech mahindra,not specified,Tier-3,Tier-1,not specified
+39,naukri_mohitmishra[7y_0m].docx,pune,java,mindtree,infosys,ilfs,Tier-2,Tier-1,Tier-3
+40,naukri_ashwinkumarj[3y_4m].docx,chennai,others,bereneng bank,anb investment bank,not specified,Tier-3,Tier-3,not specified
+41,harishsingh.docx,indore,others,richard sendings,qvazon,not specified,Tier-3,Tier-3,not specified
+42,naukri_sunilkumar[14y_11m].docx,gurgaon,others,balance hero,not specified,not specified,Tier-3,not specified,not specified
+43,naukri_chetankrishnasangoram[25y_0m].docx,mumbai,java,ubs business  ,not specified,not specified,Tier-3,not specified,not specified
+44,naukri_srinivaspendyala[9y_0m] (1).docx,hyderabad,"java, .net",viaplus by vinci highway,sagarsoft,dxc,Tier-3,Tier-3,Tier-3
+45,kiranmaiee kalidindi-pega.docx,bengaluru,"java, pega",mphasis,blue rose,accenture,Tier-2,Tier-3,Tier-1
+46,durgam keerthi.docx,mumbai,others,snaga,not specified,not specified,Tier-3,not specified,not specified
+47,naukri_kapil[14y_5m].docx,not specified,java,diamondpick,mobolutions,not specified,Tier-3,Tier-3,not specified
+48,naukri_hemalathap[4y_0m].docx,chennai,java,senseapp,not specified,not specified,Tier-3,not specified,not specified
+49,naukri_bhavanidussa[3y_2m].docx,hyderabad,java,keysoft infotech ,not specified,not specified,Tier-3,not specified,not specified
+50,harikumar infomatica.docx,other location,others,cognizant  ,hexaware  ,not specified,Tier-1,Tier-3,not specified
+51,naukri_kamalrajveeramani[4y_10m] (1).docx,chennai,java,cognizant  ,orion innovation,lloyds banking group uk,Tier-1,Tier-3,Tier-3
+52,naukri_baliramtapshale[5y_6m].docx,bengaluru,java,cgi,right aligned ,dtdc courier and cargo,Tier-3,Tier-3,Tier-3
+53,naukri_poojabhadauria[4y_0m].docx,other location,python,xyz ,not specified,not specified,Tier-3,not specified,not specified
+54,venkata reddy julakanti.docx,hyderabad,java,capgemini,tek  global,ebix,Tier-1,Tier-3,Tier-3
+55,naukri_rupalpradhan[5y_0m].docx,bengaluru,"java, python",capgemini,not specified,not specified,Tier-1,not specified,not specified
+56,naukri_rupalpradhan[5y_0m].docx,bengaluru,"java, python",capgemini,not specified,not specified,Tier-1,not specified,not specified
+57,sivasankar r.docx,not specified,pega,virtusa,dxc,xerox business,Tier-2,Tier-3,Tier-3
+58,naukri_tanujabhaskarraokulkarni[3y_1m].docx,pune,java,mindtree,not specified,not specified,Tier-2,not specified,not specified
+59,naukri_sumitjoshi[4y_1m].docx,bengaluru,java,mphasis,capgemini,charles schwab,Tier-2,Tier-1,Tier-3
+60,jerin john.docx,other location,python,not specified,not specified,not specified,not specified,not specified,not specified
+61,naukri_sanjaysahoo[15y_0m].docx,other location,others,not specified,not specified,not specified,not specified,not specified,not specified
+62,naukri_dabholesumitgajanan[4y_0m] (1).docx,pune,java,webcorestone  ,infosys,not specified,Tier-3,Tier-1,not specified
+63,naukri_alluraiah[4y_3m].docx,not specified,java,sahasya global ,ojas innovative,dhatri infosol,Tier-3,Tier-3,Tier-3
+64,naukri_prakruthihk[3y_9m].docx,other location,java,wipro,not specified,not specified,Tier-1,not specified,not specified
+65,jd_cloud_data_architect.docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+66,naukri_madhura[8y_6m].docx,hyderabad,pega,thryve digital,hcl,myclassboardcom,Tier-3,Tier-1,Tier-3
+67,shailesh.docx,bengaluru,java,schenck process ,not specified,not specified,Tier-3,not specified,not specified
+68,yeruva.docx,hyderabad,others,ibm,ap moller maersk,solenis gss,Tier-1,Tier-3,Tier-3
+69,vaibhav gathe cv.docx,bengaluru,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+70,naveen kumar boda.docx,hyderabad,"java, pega",mphasis,not specified,not specified,Tier-2,not specified,not specified
+71,naukri_ganeshcheekatla[7y_0m].docx,hyderabad,others,virtusa,not specified,not specified,Tier-2,not specified,not specified
+72,naukri_ajay[27y_0m].docx,bengaluru,others,not specified,not specified,not specified,not specified,not specified,not specified
+73,naukri_anooptripathi[17y_0m] (1).docx,bengaluru,others,not specified,not specified,not specified,not specified,not specified,not specified
+74,vamsikiran.docx,bengaluru,java,ltech ,blue rose,mphasis,Tier-3,Tier-3,Tier-2
+75,prajesh munda.docx,bengaluru,java,reliance jio infocomm,not specified,not specified,Tier-3,not specified,not specified
+76,raman janeyulu.docx,bengaluru,others,wipro,lt infotech,capgemini,Tier-1,Tier-3,Tier-1
+77,naukri_jayprakashkumar[4y_1m].docx,not specified,java,tek system,coforge,not specified,Tier-3,Tier-2,not specified
+78,naukri_ramakrishnab[5y_2m].docx,hyderabad,java,infosys,spiderweb infotech,not specified,Tier-1,Tier-3,not specified
+79,naukri_rambhupalreddy[6y_8m].docx,not specified,java,dimensions infotech,not specified,not specified,Tier-3,not specified,not specified
+80,premachandra saka.docx,other location,"java, python",capgemini,packt publishing,not specified,Tier-1,Tier-3,not specified
+81,sandeep kumar.docx,hyderabad,java,kaara info,webmatics ,not specified,Tier-3,Tier-3,not specified
+82,akshun bharat.docx,mumbai,others,tatatrent fiora business support,not specified,not specified,Tier-3,not specified,not specified
+83,check list for onboarding - sample 1.docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+84,naukri_thatimeghamala[5y_3m].docx,hyderabad,others,broadcom inc,not specified,not specified,Tier-3,not specified,not specified
+85,naveen kumar.docx,other location,java,process360,not specified,not specified,Tier-3,not specified,not specified
+86,naukri_sandeshsudhakaranks[10y_0m].docx sent mail.docx,bengaluru,others,ibm,not specified,not specified,Tier-1,not specified,not specified
+87,naukri_bikramadhikary[7y_0m].docx,not specified,python,ernst and young,intel,cgi   ,Tier-3,Tier-1,Tier-3
+88,naukri_ashishmaurya[6y_7m] (1).docx,not specified,java,virtusa,tech mahindra,quinnox consultancy,Tier-2,Tier-1,Tier-3
+89,thirupathi doragolla.docx,hyderabad,pega,cognizant  ,legato health,not specified,Tier-1,Tier-3,not specified
+90,naukri_purushottamkumarpandey[21y_0m].docx,pune,others,antworks,exl service,tcs,Tier-3,Tier-3,Tier-1
+91,shishir tamutgiri updated cv june 2023.docx,pune,others,british petroleum,not specified,not specified,Tier-3,not specified,not specified
+92,naukri_rajani[4y_2m].docx,hyderabad,java,continental softech,not specified,not specified,Tier-3,not specified,not specified
+93,upendra.docx,bengaluru,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+94,vivek shrikrishna kale.docx,pune,"java, pega, .net",bits in glass,infosys,yupptv,Tier-3,Tier-1,Tier-3
+95,siva+rajeswari+ammula_automation+testing (1).docx,hyderabad,java,blueliner,not specified,not specified,Tier-3,not specified,not specified
+96,naukri_gmohankumar[3y_0m].docx,bengaluru,others,haya,not specified,not specified,Tier-3,not specified,not specified
+97,abdul baseer.docx,hyderabad,"java, pega",clinztech research ,not specified,not specified,Tier-3,not specified,not specified
+98,ravikanthreddy-pega.docx,hyderabad,pega,virtusa,vedas labs,not specified,Tier-2,Tier-3,not specified
+99,satyendra yadav (1).docx,lucknow,java,speckyfox,not specified,not specified,Tier-3,not specified,not specified
+100,aparna shilpi.docx,mumbai,others,intelehealth,not specified,not specified,Tier-3,not specified,not specified
+101,shaileshsureshbadgujar[6y_0m].docx,mumbai,java,alitustech health it  philips healthcare,not specified,not specified,Tier-3,not specified,not specified
+102,anshul gupta.docx,bengaluru,python,capgemini,not specified,not specified,Tier-1,not specified,not specified
+103,naukri_rameshvidanuru[3y_4m].docx,other location,java,slk,wipro,not specified,Tier-3,Tier-1,not specified
+104,naukri_lavanyajarugu[1y_2m].docx,not specified,others,bank of america,not specified,not specified,Tier-3,not specified,not specified
+105,udayakumar murugan.docx,not specified,java,photon,cmc global,cts,Tier-3,Tier-3,Tier-3
+106,naukri_pulicharlakotireddy[6y_4m].docx,not specified,others,capgemini,accenture,ptt group gpsc,Tier-1,Tier-1,Tier-3
+107,naukri_ronaliromayapriyadarshini[8y_0m].docx,not specified,java,cognizant  ,mphasis,tcs,Tier-1,Tier-2,Tier-1
+108,jd for informatica.docx,not specified,others,informatica,not specified,not specified,Tier-3,not specified,not specified
+109,sheetal nikam.docx,pune,java,medtran ,not specified,not specified,Tier-3,not specified,not specified
+110,naukri_vamsikrishna[5y_0m].docx,not specified,java,hcl,not specified,not specified,Tier-1,not specified,not specified
+111,kranthi kumar jannu.docx,hyderabad,"java, pega, .net",vega techno,not specified,not specified,Tier-3,not specified,not specified
+112,raja reddy.docx,hyderabad,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+113,prashanth golla.docx,hyderabad,java,valuelabs,not specified,not specified,Tier-3,not specified,not specified
+114,aradhanabadapanda[7y_0m].docx,hyderabad,pega,accenture,not specified,not specified,Tier-1,not specified,not specified
+115,gaurav sadashiv londhe.docx,not specified,"java, pega",accenture,not specified,not specified,Tier-1,not specified,not specified
+116,sai sudha.docx,hyderabad,java,tcs,telebu communications,not specified,Tier-1,Tier-3,not specified
+117,naukri_girijahota[5y_0m].docx,chennai,"java, python",mphasis,not specified,not specified,Tier-2,not specified,not specified
+118,raghava.docx,bengaluru,java,hexa   hcl,hcl,hexaware  sapiens,Tier-3,Tier-1,Tier-3
+119,resume_ravi.docx,not specified,java,atmecs,cognizant,hcl,Tier-3,Tier-1,Tier-1
+120,kiran kumar naik_1704786300033.docx,not specified,others,happiest minds,infoville ,not specified,Tier-3,Tier-3,not specified
+121,shravan kumar.docx,not specified,java,synoris,not specified,not specified,Tier-3,not specified,not specified
+122,recruiting skills.docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+123,naukri_hemaj[3y_6m] (1).docx,bengaluru,others,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+124,naukri_shaikmasthan[4y_6m].docx,hyderabad,"java, pega",deloitte,not specified,not specified,Tier-1,not specified,not specified
+125,naukri_maheshkotiyan[15y_0m].docx,pune,others,cuelogic,tata steel,capgemini,Tier-3,Tier-3,Tier-1
+126,omkar nandkumar bagade.docx,other location,"java, python",tcs,not specified,not specified,Tier-1,not specified,not specified
+127,pavan desi reddy.docx,not specified,java,hcl,scorg,not specified,Tier-1,Tier-3,not specified
+128,vamsikiran d- a.docx,bengaluru,java,ltech ,blue rose,mphasis,Tier-3,Tier-3,Tier-2
+129,architect jd as per ps.docx,not specified,pega,not specified,not specified,not specified,not specified,not specified,not specified
+130,naukri_raghuveerrajeev[22y_0m] (1).docx,other location,"java, python",abc ,not specified,not specified,Tier-3,not specified,not specified
+131,naukri_srinivasalub[5y_0m].docx,hyderabad,others,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+132,naukri_azharansari[3y_3m] (1).docx,new delhi,java,not specified,not specified,not specified,not specified,not specified,not specified
+133,paramesh.docx,hyderabad,java,persistent,not specified,not specified,Tier-3,not specified,not specified
+134,venkateswarlu.docx,other location,python,xyz ,not specified,not specified,Tier-3,not specified,not specified
+135,pinky agrawal.docx,hyderabad,"java, pega",pega,not specified,not specified,Tier-3,not specified,not specified
+136,naukri_rakeshkumar[13y_0m].docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+137,naukri_sritejab[7y_0m].docx,not specified,others,hcl,not specified,not specified,Tier-1,not specified,not specified
+138,ranjib sahoo.docx,bengaluru,"java, pega",infosys,not specified,not specified,Tier-1,not specified,not specified
+139,naukri_dipjyotisanyal[10y_3m].docx,other location,"java, python",tcs,not specified,not specified,Tier-1,not specified,not specified
+140,naukri_yogeeshasm[12y_0m].docx,bengaluru,others,genius bsi,ibm,asmara apparels,Tier-3,Tier-1,Tier-3
+141,naukri_shubhamsahu[8y_3m].docx,mumbai,java,aarav global product,not specified,not specified,Tier-3,not specified,not specified
+142,naukri_sanivarapupreddy[4y_6m].docx,not specified,others,beyond blue it ,ullico inc,beyond blue it ,Tier-3,Tier-3,Tier-3
+143,naukri_saikumarv[3y_9m].docx,bengaluru,java,delcom,not specified,not specified,Tier-3,not specified,not specified
+144,pankhuri kansal.docx,other location,python,accenture,optum,tcs,Tier-1,Tier-3,Tier-1
+145,rajendra verma-a.docx,other location,java,itc infotech,ibm,not specified,Tier-1,Tier-1,not specified
+146,naukri_debashreehalder[6y_5m].docx,bengaluru,others,cerner health,axa business,not specified,Tier-3,Tier-3,not specified
+147,sarada.docx,pune,java,aarya technical,not specified,not specified,Tier-3,not specified,not specified
+148,naukri_anujsagar[3y_7m].docx,pune,java,not specified,not specified,not specified,not specified,not specified,not specified
+149,naukri_druvakumarb[4y_0m].docx,bengaluru,java,jmr infotech,not specified,not specified,Tier-3,not specified,not specified
+150,naukri_mariyappantirugoutam[5y_6m].docx,not specified,others,tavant,not specified,not specified,Tier-3,not specified,not specified
+151,shwetachauhan.docx,pune,others,one network enterprises,not specified,not specified,Tier-3,not specified,not specified
+152,tejas kesharkar.docx,not specified,others,bny mellon,neevamo enterprise ,wns,Tier-3,Tier-3,Tier-3
+153,naukri_rishabhkumar[4y_0m] (1).docx,noida,java,nec ,not specified,not specified,Tier-3,not specified,not specified
+154,naukri_gopikrishnalakkimsetty[7y_0m].docx,bengaluru,java,emids,regnant,not specified,Tier-3,Tier-3,not specified
+155,naukri_madhusudhanareddyt[14y_3m].docx,chennai,"java, .net",dxc,not specified,not specified,Tier-3,not specified,not specified
+156,naukri_mahendrareddy[4y_0m].docx,not specified,java,webmatics ,capgemini  ,accenture,Tier-3,Tier-3,Tier-1
+157,prakash eknath ghonge.docx,mumbai,java,capgemini,futurz staffing solution,robonik,Tier-1,Tier-3,Tier-3
+158,naukri_kaovyaasaisri[4y_0m].docx,other location,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+159,naukri_arvindsingh[8y_0m].docx,pune,java,atos syntel,not specified,not specified,Tier-3,not specified,not specified
+160,sapnagupta_ba_cv (1).docx,pune,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+161,naukri_vinayshashidharpatil[3y_6m].docx,bengaluru,"java, python",dataquaters,not specified,not specified,Tier-3,not specified,not specified
+162,naukri_rohansrivastava[12y_0m].docx,bengaluru,others,xebia,prodapt solution,slk,Tier-3,Tier-3,Tier-3
+163,naukri_yekonarayanareddy[4y_0m] (1).docx,other location,"java, python",capgemini,not specified,not specified,Tier-1,not specified,not specified
+164,naukri_gauravsingh[7y_5m].docx,bengaluru,others,ust global,not specified,not specified,Tier-2,not specified,not specified
+165,naukri_jaineepatel[6y_6m].docx,chennai,others,bct consultancy astrazeneca,not specified,not specified,Tier-3,not specified,not specified
+166,yesuraju sql.docx,hyderabad,others,kfintech,not specified,not specified,Tier-3,not specified,not specified
+167,naukri_abisheksabarinathan[6y_0m] (1).docx,other location,"java, python",aditya infotech,not specified,not specified,Tier-3,not specified,not specified
+168,naukri_harshkansara[5y_7m].docx,other location,others,orange business,cleo circuit,streamline control,Tier-3,Tier-3,Tier-3
+169,naukri_suhasnamdeodhanorkar[3y_2m].docx,pune,others,cognizant  ,dual globe ,not specified,Tier-1,Tier-3,not specified
+170,pavankumar kutikuppala.docx,hyderabad,others,accenture ,not specified,not specified,Tier-3,not specified,not specified
+171,pavankumar kutikuppala.docx,hyderabad,others,accenture ,not specified,not specified,Tier-3,not specified,not specified
+172,naukri_mdzafarjaleel[4y_6m].docx,hyderabad,java,excellarate ,not specified,not specified,Tier-3,not specified,not specified
+173,naukri_mdzafarjaleel[4y_6m].docx,hyderabad,java,excellarate ,not specified,not specified,Tier-3,not specified,not specified
+174,naukri_srirambaskaran[10y_0m].docx,hyderabad,others,bnpp,hcl,tcs,Tier-3,Tier-1,Tier-1
+175,naukri_anupkumarpandey[5y_11m].docx,not specified,java,vinculum xsys,ibm    ,pwc idexcel,Tier-3,Tier-3,Tier-3
+176,naukri_mandatiakhilreddy[4y_3m].docx,other location,others,microsoft,not specified,not specified,Tier-1,not specified,not specified
+177,pratik chilke.docx,not specified,"java, pega",syntel,capgemini,zensar,Tier-3,Tier-1,Tier-3
+178,ravitejanune.docx,bengaluru,pega,virtusa,not specified,not specified,Tier-2,not specified,not specified
+179,rajesh narne.docx,other location,others,scandinavian airlines,not specified,not specified,Tier-3,not specified,not specified
+180,naukri_ranjeetkumar[3y_5m].docx,bengaluru,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+181,naukri_nageswararao[7y_6m].docx,hyderabad,others,infosys,florida  ,not specified,Tier-1,Tier-3,not specified
+182,getsiya priya tharishini francis.docx,chennai,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+183,priya ranjan pallai.docx,bengaluru,pega,spanidea,not specified,not specified,Tier-3,not specified,not specified
+184,naukri_manalijain[9y_0m].docx,other location,others,espire infolabs,not specified,not specified,Tier-3,not specified,not specified
+185,nitinkumargarg_11yrs_pega developerspar_noida.docx,noida,"java, pega",coforge,optum,genpact,Tier-2,Tier-3,Tier-3
+186,naukri_mohammadjuned[11y_6m].docx,new delhi,others,telus,al othaim investment,memaar an emaar subsidiary,Tier-3,Tier-3,Tier-3
+187,naukri_majjisindhuja[4y_0m].docx,other location,"java, python",infosys,not specified,not specified,Tier-1,not specified,not specified
+188,naukri_srinivasbaithi[13y_4m].docx,pune,others,seagate  llc,not specified,not specified,Tier-3,not specified,not specified
+189,naukri_vinaykumar[4y_0m].docx,chennai,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+190,harnadh vonduru_pega rpa.docx,hyderabad,"java, pega, .net",atos,not specified,not specified,Tier-3,not specified,not specified
+191,naukri_venkatapavan[7y_11m].docx,pune,others,atos,ltimindtree,not specified,Tier-3,Tier-3,not specified
+192,mgvsshivankh_pega _innova sol_hyderabad.docx,other location,"java, pega",citi bank,not specified,not specified,Tier-3,not specified,not specified
+193,praveenb.docx,hyderabad,"java, .net",cirrus labs atbz,gaman ,not specified,Tier-3,Tier-3,not specified
+194,naukri_swamypagilla[4y_7m].docx,pune,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+195,naukri_yesurajum[4y_0m].docx,hyderabad,others,kfintech,not specified,not specified,Tier-3,not specified,not specified
+196,naukri_mbalasubrahmanyam[4y_0m].docx,mumbai,java,athexa info,majesco  and ,not specified,Tier-3,Tier-3,not specified
+197,k_shanmukha srinivas rao 8555.docx,not specified,python,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+198,nandhakumar kamalakannan.docx,not specified,others,burberry,not specified,not specified,Tier-3,not specified,not specified
+199,naukri_mudassarnawab[4y_0m].docx,hyderabad,java,tcs,cognizant,not specified,Tier-1,Tier-1,not specified
+200,saharsh sinha.docx,other location,"java, pega",infosys,not specified,not specified,Tier-1,not specified,not specified
+201,naukri_bhargavgunda[2y_0m].docx,hyderabad,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+202,naukri_gnanendraprasadd[9y_0m] (1).docx,not specified,others,deloitte,ernst and young llp,accenture,Tier-1,Tier-3,Tier-1
+203,naukri_gopinathp[4y_0m].docx,not specified,java,wipro,cognizant  ,not specified,Tier-1,Tier-1,not specified
+204,ungarala ramesh.docx,not specified,pega,atos syntel,not specified,not specified,Tier-3,not specified,not specified
+205,naukri_hariprakashnuthi[25y_0m].docx,hyderabad,java,hitachi,not specified,not specified,Tier-3,not specified,not specified
+206,naukri_himanshuparashar[18y_0m] (1).docx,not specified,python,koch business ,not specified,not specified,Tier-3,not specified,not specified
+207,rambabu_4yrs+exp_test+engineer.docx,hyderabad,java,gspann,lanco global,not specified,Tier-3,Tier-3,not specified
+208,naukri_narendraganeshneelam[4y_0m].docx,hyderabad,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+209,naukri_kalasaniashokreddy[4y_0m].docx,kolkata,python,kellogs,not specified,not specified,Tier-3,not specified,not specified
+210,naukri_vijayapaltagaram[4y_0m].docx,bengaluru,java,valley,not specified,not specified,Tier-3,not specified,not specified
+211,himanshu+paliwal+cv.docx,other location,python,abc ,not specified,not specified,Tier-3,not specified,not specified
+212,himanshu joshi.docx,bengaluru,java,ig group,not specified,not specified,Tier-3,not specified,not specified
+213,naukri_vaibhavanand[11y_0m].docx,noida,others,fujitsu global,not specified,not specified,Tier-3,not specified,not specified
+214,ramum.docx,hyderabad,others,leading organization of repute,not specified,not specified,Tier-3,not specified,not specified
+215,stuti goyal.docx,not specified,others,ibm,not specified,not specified,Tier-1,not specified,not specified
+216,naukri_manikantakatkuri[7y_0m].docx,not specified,"java, pega",mindtree,legato health,infosys,Tier-2,Tier-3,Tier-1
+217,naukri_preetham[7y_0m].docx,pune,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+218,naukri_gopikrishnakalamsetty[16y_0m].docx,not specified,java,choice hotels,autodesk,mahindra,Tier-3,Tier-3,Tier-3
+219,hareesh kapu.docx,bengaluru,java,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+220,naukri_rajyadav[4y_10m] (1).docx,bengaluru,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+221,swati shaw_pega.docx,kolkata,"java, pega",coforge,cognizant,tech mahindra,Tier-2,Tier-1,Tier-1
+222,venkatareddy julakanti.docx,hyderabad,java,capgemini,tek  global,ebix,Tier-1,Tier-3,Tier-3
+223,naukri_satishprasad[14y_0m].docx,other location,others,bekaert industries ,not specified,not specified,Tier-3,not specified,not specified
+224,naukri_subhaschandrabhat[21y_0m].docx,other location,"java, python",infosys,not specified,mphasis,Tier-1,not specified,Tier-2
+225,naukri_chaudhrimubin[4y_6m].docx,pune,java,hcl,not specified,not specified,Tier-1,not specified,not specified
+226,karim basha shaik.docx,hyderabad,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+227,rohith kumar.docx,not specified,java,infosys,accenture,not specified,Tier-1,Tier-1,not specified
+228,naukri_shalineeudaydhokrat[6y_0m].docx,pune,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+229,naukri_mvenkatasaidarao[3y_0m].docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+230,naukri_poonamgupta[14y_0m].docx,chennai,others,schneider electric,kec,abb,Tier-3,Tier-3,Tier-3
+231,naukri_praveenkumar[5y_2m].docx,hyderabad,java,capgemini,edge ,not specified,Tier-1,Tier-3,not specified
+232,naukri_ravikumar[5y_10m].docx,other location,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+233,gopi krishna.docx,hyderabad,java,capgemini,accenture,not specified,Tier-1,Tier-1,not specified
+234,naukri_ravi[15y_0m].docx,other location,others,hsbc,microsoft,mphasis,Tier-3,Tier-1,Tier-2
+235,haribabu kothapalli.docx,bengaluru,java,publicis sapient,capgemini,not specified,Tier-3,Tier-1,not specified
+236,naukri_sidhantgadade[7y_0m].docx,pune,others,amazon ,not specified,not specified,Tier-3,not specified,not specified
+237,naukri_yashwant[12y_5m].docx,hyderabad,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+238,naukri_deepakmudgal[12y_0m].docx,not specified,others,infosys,ust global,accenture,Tier-1,Tier-2,Tier-1
+239,naukri_bollisahadev[5y_0m].docx,hyderabad,others,gaman  ,quest diagnostics,not specified,Tier-3,Tier-3,not specified
+240,naukri_srikant[4y_8m].docx,bengaluru,java,clarivate,virtusa,capgemini,Tier-3,Tier-3,Tier-1
+241,palivela lokesh.docx,other location,java,ibm,bank of montrealbmo,ibm,Tier-1,Tier-3,Tier-1
+242,naukri_komala[5y_2m].docx,not specified,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+243,kavya.docx,hyderabad,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+244,naukri_saipvank[5y_0m].docx,hyderabad,java,crocus global,not specified,not specified,Tier-3,not specified,not specified
+245,nitin+arora+cv.docx,new delhi,"java, .net",ibm,not specified,not specified,Tier-1,not specified,not specified
+246,naukri_kunalpandey[5y_6m].docx,not specified,"java, python",photon,coforge,buildwealth,Tier-3,Tier-2,Tier-3
+247,naukri_priyadarsinisamantaray[5y_0m].docx,not specified,java,tcs,verizon data,morgan stanley trading,Tier-1,Tier-3,Tier-3
+248,naukri_ramkeshdhanda[13y_0m].docx,other location,"java, python",hcl,not specified,not specified,Tier-1,not specified,not specified
+249,naukri_makhansakevin[5y_7m].docx,pune,java,wipro,not specified,not specified,Tier-1,not specified,not specified
+250,sagar d. kharat_resume (1).docx,pune,others,accenture,not specified,not specified,Tier-1,not specified,not specified
+251,pradeep_kumar_nayak _qa_engineer_resumes.docx,not specified,others,cavisson system,not specified,not specified,Tier-3,not specified,not specified
+252,naukri_bireddyramanjaneyareddy_3127706_-04_09-_1.docx,not specified,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+253,naukri_mohammedabubakar[12y_0m].docx,other location,others,schneider electric,snclavalin,not specified,Tier-3,Tier-3,not specified
+254,banalavamshikrishna_pega lsa_innova sol_hyd.docx,hyderabad,pega,virtusa,not specified,not specified,Tier-2,not specified,not specified
+255,jayanth_storage_cloud_12yrs (2).docx,bengaluru,others,ctrls datacenters,not specified,not specified,Tier-3,not specified,not specified
+256,naukri_mallikarjunakalyani[3y_7m].docx,bengaluru,others,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+257,rohit poonia.docx,other location,java,infosys,morphis,freshworks,Tier-1,Tier-3,Tier-3
+258,naukri_gontuvishnukanth[4y_2m].docx,hyderabad,java,synechron,microgreen,genex technoogies,Tier-3,Tier-3,Tier-3
+259,harshil gandecha.docx,pune,pega,not specified,ibm,vodafone,not specified,Tier-1,Tier-3
+260,himal turale (1).docx,hyderabad,java,harman connecting,not specified,not specified,Tier-3,not specified,not specified
+261,srikanth tallapudi.docx,other location,others,not specified,not specified,not specified,not specified,not specified,not specified
+262,k n akhila.docx,hyderabad,pega,cognizant  ,apple ,sp global ratings,Tier-1,Tier-3,Tier-3
+263,shamim ansari.docx,bengaluru,java,not specified,not specified,not specified,not specified,not specified,not specified
+264,naukri_dipanganachatterjee[5y_2m].docx,kolkata,java,ibm,dbs,amica insurance,Tier-1,Tier-3,Tier-3
+265,pranjalirameshghonmode.docx,hyderabad,python,chubb insurance,capgemini,pragma edge,Tier-3,Tier-1,Tier-3
+266,naukri_nithins[13y_0m].docx,bengaluru,others,intel,amazon,hewlett packard enterprise,Tier-1,Tier-1,Tier-3
+267,sanjeev kumar namala.docx,hyderabad,java,kmpg,vhs,cognizant,Tier-3,Tier-3,Tier-1
+268,sathya lakshmi.docx,other location,python,not specified,not specified,not specified,not specified,not specified,not specified
+269,naukri_murali[5y_0m] (1).docx,not specified,java,hcl,veeva,grhombus consultings,Tier-1,Tier-3,Tier-3
+270,naukri_akashkumar[4y_0m].docx,noida,java,acs(formerly called as ggk),not specified,not specified,Tier-3,not specified,not specified
+271,naukri_ashutoshchandradipak[5y_1m].docx,bengaluru,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+272,naukri_namanjoshi[4y_4m].docx,bengaluru,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+273,naukri_amitkumarpanda[4y_10m].docx,other location,java,mindtree,volvo,capgemini,Tier-2,Tier-3,Tier-1
+274,naukri_sateeshm[9y_0m].docx,not specified,java,tcs,capgemini,source one management,Tier-1,Tier-1,Tier-3
+275,naukri_amishamandal[11y_0m].docx,chennai,others,consign space ,not specified,not specified,Tier-3,not specified,not specified
+276,naukri_rajagopalkoduri[19y_0m] (1).docx,not specified,others,ca,not specified,not specified,Tier-3,not specified,not specified
+277,naukri_pavan[3y_8m].docx,other location,java,itc infotech,not specified,not specified,Tier-1,not specified,not specified
+278,jd for integration.docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+279,naukri_mutyalaravikumar[4y_11m].docx,hyderabad,java,teqsar   formerly known as mobipay,not specified,not specified,Tier-3,not specified,not specified
+280,trishna.docx,pune,"java, .net",globant,not specified,not specified,Tier-3,not specified,not specified
+281,naukri_thatipalliaishwarya[3y_8m].docx,hyderabad,others,tek system,value labs ,hinduja global ,Tier-3,Tier-3,Tier-3
+282,vasa bharath kumar.docx,not specified,"python, .net",persistent,not specified,not specified,Tier-3,not specified,not specified
+283,naukri_arunmozhid[7y_8m].docx,chennai,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+284,naukri_venkatakotrswararao[7y_3m].docx,not specified,java,wipro,infosys,not specified,Tier-1,Tier-1,not specified
+285,pujari swaroopa-pega developer-9years-spar_bangalore.docx,hyderabad,pega,not specified,not specified,not specified,not specified,not specified,not specified
+286,hari babu.docx,hyderabad,others,vertex cs,vsoft,capgeminipvt,Tier-3,Tier-3,Tier-3
+287,naukri_hariprasad[12y_0m].docx,other location,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+288,naukri_dhanthuluriashokraju[4y_0m].docx,other location,python,xyz ,not specified,not specified,Tier-3,not specified,not specified
+289,rahamtullah mohammad.docx,hyderabad,others,moodys,not specified,not specified,Tier-3,not specified,not specified
+290,naukri_jyotrimayaswain[4y_5m].docx,bengaluru,java,harman connecting,brillio,capgemini,Tier-3,Tier-3,Tier-1
+291,raju tiwari.docx,other location,others,not specified,not specified,not specified,not specified,not specified,not specified
+292,rahul kushwaha.docx,pune,java,qubiq,not specified,not specified,Tier-3,not specified,not specified
+293,naukri_vaibhavtyagi[9y_0m].docx,not specified,python,schneider electric,amazon,royal bank of scotland,Tier-3,Tier-1,Tier-3
+294,naukri_kapilshrivastava[9y_0m].docx,pune,others,darwinbox ,not specified,not specified,Tier-3,not specified,not specified
+295,naukri_mohitraina[15y_0m].docx,gurgaon,others,not specified,not specified,not specified,not specified,not specified,not specified
+296,naukri_saniyabano[4y_0m] (1).docx,indore,java,5exceptions  ,kangroo,not specified,Tier-3,Tier-3,not specified
+297,naukri_anandjeyapaul[25y_0m].docx,not specified,others,ramco,hexaware,polaris  and,Tier-3,Tier-3,Tier-3
+298,naukri_aliyadalvi[3y_1m].docx,pune,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+299,naukri_srinivasarao[7y_9m].docx,not specified,python,infosys,intel,stesalit,Tier-1,Tier-1,Tier-3
+300,t pavan kumar_pega lsa.docx,hyderabad,pega,capgemini,infosys,amazon development centre,Tier-1,Tier-1,Tier-3
+301,naukri_kvijay[3y_10m].docx,bengaluru,java,esm square,not specified,not specified,Tier-3,not specified,not specified
+302,anil kumar d.docx,hyderabad,others,solunus,not specified,not specified,Tier-3,not specified,not specified
+303,naukri_omprakashgk[8y_0m].docx,not specified,others,tcs,not specified,not specified,Tier-1,not specified,not specified
+304,aman mishra.docx,pune,java,mindtree,not specified,not specified,Tier-2,not specified,not specified
+305,innova-nareshkonda-pega developer.docx,hyderabad,"java, pega",amex,capgemini,versatile,Tier-3,Tier-1,Tier-3
+306,joydeep sengupta.docx,bengaluru,others,apolis,mastech digital,scarlet wireless  managed staffing,Tier-3,Tier-3,Tier-3
+307,rkarthickbabu.docx,chennai,python,fidelity investments,ford motor company ciber,tethr,Tier-3,Tier-3,Tier-3
+308,usha vasupalli.docx,not specified,java,creative softech,fiserv,not specified,Tier-3,Tier-3,not specified
+309,naukri_jagadeeshgajula[4y_0m].docx,not specified,"java, python",gordon food  gfs,daily walkins,ihealth pharm,Tier-3,Tier-3,Tier-3
+310,asmita sahu.docx,bengaluru,others,parachute,not specified,not specified,Tier-3,not specified,not specified
+311,srirama_prasad_gubbala.docx,hyderabad,"java, python",standards and poors sp,british telecom,ae,Tier-3,Tier-3,Tier-3
+312,naukri_venkatasravankishore[5y_0m].docx,not specified,java,capgemini,ibs,accord,Tier-1,Tier-3,Tier-3
+313,naukri_nirmalkumar[4y_5m].docx,not specified,java,centum learning,em  ,coraza    one direct  odcem,Tier-3,Tier-3,Tier-3
+314,jhansi vuppula.docx,hyderabad,java,unitedhealth group,foray,hcl,Tier-3,Tier-3,Tier-1
+315,giri_pega.docx,bengaluru,pega,cyber,salesforce,valley info,Tier-3,Tier-3,Tier-3
+316,naukri_ravikanthattanti[4y_4m].docx,bengaluru,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+317,naukri_sandeepkumar[15y_0m].docx,not specified,others,makse group,jll,kpmg,Tier-3,Tier-3,Tier-3
+318,tanaya panda.docx,bengaluru,python,johnson controls,skylab infotech,primus global,Tier-3,Tier-3,Tier-3
+319,naukri_rambalajiraoshinde[5y_0m].docx,hyderabad,java,highradius,not specified,not specified,Tier-3,not specified,not specified
+320,vamshidhar reddy.b.docx,hyderabad,java,yash   ,not specified,not specified,Tier-3,not specified,not specified
+321,naukri_rambalajiraoshinde[5y_0m] (1).docx,hyderabad,java,highradius,pennant,not specified,Tier-3,Tier-3,not specified
+322,naukri_rupaliagarwal[5y_5m].docx,not specified,others,orange business,accenture,sapiens,Tier-3,Tier-1,Tier-3
+323,naukri_ravulaarun[5y_5m].docx,not specified,java,wipro,virtusa,ait global,Tier-1,Tier-3,Tier-3
+324,raviachari-pega.docx,not specified,pega,tcs,not specified,not specified,Tier-1,not specified,not specified
+325,naukri_rehanashaik[2y_10m].docx,other location,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+326,naukri_mohdsamiuddin[4y_0m].docx,hyderabad,others,redington,not specified,not specified,Tier-3,not specified,not specified
+327,harshitha.docx,hyderabad,others,evoke,tech mahindra,cognizant,Tier-3,Tier-1,Tier-1
+328,naukri_chandicharankundu[10y_0m].docx,bengaluru,"java, pega",tcs,virtusa,coforge dpa,Tier-1,Tier-3,Tier-3
+329,naukri_egurlaparsharamulu[5y_2m].docx,other location,python,dxc,not specified,not specified,Tier-3,not specified,not specified
+330,siva[5y_0m].docx,not specified,"java, pega",genex,not specified,not specified,Tier-3,not specified,not specified
+331,naukri_sharmilarajaram[4y_2m].docx,not specified,java,telecom and healthcare domain,not specified,not specified,Tier-3,not specified,not specified
+332,krishna ji.docx,bengaluru,java,lumen  formerly centurylink,not specified,not specified,Tier-3,not specified,not specified
+333,jd for data programmer 2.docx,not specified,python,not specified,not specified,not specified,not specified,not specified,not specified
+334,naukri_subharanjanmohapatra[8y_0m].docx,bengaluru,others,not specified,not specified,not specified,not specified,not specified,not specified
+335,naukri_abhishekkumar[4y_0m].docx,hyderabad,others,gap it,dst worldwide,narvee,Tier-3,Tier-3,Tier-3
+336,naukri_saikandukuri[4y_9m].docx,hyderabad,pega,sainsbury oscarathena,amex,kyyba bullhorn,Tier-3,Tier-3,Tier-3
+337,naukri_kiranpatil[3y_8m].docx,pune,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+338,praveen periasamy- a.docx,bengaluru,others,eg hds llp,aldi,senior developer,Tier-3,Tier-3,Tier-3
+339,naukri_shaurabhsuman[3y_6m].docx,kolkata,java,trisys it,not specified,not specified,Tier-3,not specified,not specified
+340,naukri_anirudhvangala[3y_2m].docx,hyderabad,java,chetu,cigniti,not specified,Tier-3,Tier-3,not specified
+341,naukri_moulali[6y_0m].docx,hyderabad,java,verizon,not specified,not specified,Tier-3,not specified,not specified
+342,naukri_princyviyagulamaria[6y_0m].docx,chennai,java,hennes  mauritz ab,not specified,not specified,Tier-3,not specified,not specified
+343,prateek_singh_resume.docx,other location,others,not specified,not specified,not specified,not specified,not specified,not specified
+344,arvindreddypalli-pega.docx,hyderabad,pega,tcs,cognizant,not specified,Tier-1,Tier-1,not specified
+345,prasad futane.docx,other location,java,not specified,not specified,not specified,not specified,not specified,not specified
+346,naukri_amitkumar[3y_4m].docx,other location,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+347,naukri_venkat[12y_6m].docx,not specified,others,tech mahindra,syntel,the digital group infotech,Tier-1,Tier-3,Tier-3
+348,naukri_jitendrasinghsodha[7y_0m].docx,pune,java,tietoevrypune,amdocs,dimentrix,Tier-3,Tier-3,Tier-3
+349,naukri_pukkallavenkata[5y_8m].docx,hyderabad,"java, pega",think  learn,not specified,not specified,Tier-3,not specified,not specified
+350,naukri_vanshsinghchauhan[5y_5m].docx,noida,others,chetu,not specified,not specified,Tier-3,not specified,not specified
+351,siddheshwaranajekar.docx,pune,java,aurionpro ,not specified,not specified,Tier-3,not specified,not specified
+352,pravesh kumar shukla.docx,not specified,java,morningstar,wishfin,freelancer,Tier-3,Tier-3,Tier-3
+353,naukri_shiveshupadhyay[3y_8m].docx,bengaluru,java,qudos digital,not specified,not specified,Tier-3,not specified,not specified
+354,suresh nerella_pega.docx,not specified,pega,elite exceed llc,cognizant  ,not specified,Tier-3,Tier-1,not specified
+355,g veera reddy.docx,not specified,pega,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+356,naukri_praveenkumar[9y_0m].docx,hyderabad,pega,cno financial,not specified,not specified,Tier-3,not specified,not specified
+357,dilipkumar yp.docx,not specified,pega,coforge,conduent,not specified,Tier-2,Tier-3,not specified
+358,pragya nayak.docx,other location,others,bt,not specified,not specified,Tier-3,not specified,not specified
+359,naukri_trushalimadhukarsardal[6y_0m].docx,pune,others,john deere,pkmpl phoenix knowledge management,searce  analytics llp,Tier-3,Tier-3,Tier-3
+360,naukri_manjunathpy[10y_0m].docx,bengaluru,others,intelliest,techance   lt,gokaldas exports,Tier-3,Tier-3,Tier-3
+361,pramod.docx,bengaluru,java,iinfocomm it,not specified,not specified,Tier-3,not specified,not specified
+362,architect jd as per email.docx,not specified,pega,not specified,not specified,not specified,not specified,not specified,not specified
+363,vinay kumar_pega.docx,not specified,"java, pega",tech mahindra,wells fargo,link group,Tier-1,Tier-3,Tier-3
+364,naukri_sumitsingh[5y_0m] (1).docx,other location,others,fidelity investments,not specified,not specified,Tier-3,not specified,not specified
+365,naukri_sushanthkorati[3y_0m].docx,not specified,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+366,viswakranthi yerra.docx,hyderabad,java,cognizant  ,lt infotech,not specified,Tier-1,Tier-3,not specified
+367,shubhamkumarsinha.docx,bengaluru,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+368,naukri_yedamsaimohith[4y_0m].docx,not specified,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+369,naukri_rajivkmarrathore[3y_6m].docx,noida,java,hyper drive  inc,lara,awc,Tier-3,Tier-3,Tier-3
+370,rahul dixit.docx,gurgaon,"java, python",indifi infotech,doctor anywhere,gomechanic,Tier-3,Tier-3,Tier-3
+371,nikitha v resume.docx,other location,"java, python",cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+372,naukri_snehalkaustubhmuley[5y_3m].docx,pune,java,tcs,tsys global payment,evolveware,Tier-1,Tier-3,Tier-3
+373,naukri_murali[3y_6m].docx,hyderabad,java,ojas innovative,not specified,not specified,Tier-3,not specified,not specified
+374,naukri_ashokreddy[7y_3m].docx,other location,others,anand engineering company,cameron slb,smith nephew company,Tier-3,Tier-3,Tier-3
+375,naukri_sanjeevkumar[5y_6m].docx,other location,java,cognizant  ,jrd,not specified,Tier-1,Tier-3,not specified
+376,k abdul varis_project manager_14.7 yrs exp.docx,hyderabad,java,qentelli,anthem,deloitte,Tier-3,Tier-3,Tier-1
+377,ketangandhe[13y_0m].docx,pune,others,srm,persistent,afour,Tier-3,Tier-3,Tier-3
+378,prajwal rao.docx,bengaluru,java,vmware,not specified,not specified,Tier-3,not specified,not specified
+379,naukri_rajasekhar[8y_0m].docx,hyderabad,"python, .net",summitworks,not specified,not specified,Tier-3,not specified,not specified
+380,saroj_java_resume.docx,bengaluru,java,infinite computer tessolve,not specified,not specified,Tier-3,not specified,not specified
+381,naukri_maheshkotiyan[15y_0m] (2).docx,pune,others,zensar,emids,cuelogic,Tier-3,Tier-3,Tier-3
+382,naukri_surendrapuvvada[5y_5m].docx,not specified,java,accenture,infosys,tcs,Tier-1,Tier-1,Tier-1
+383,naukri_naresh[6y_1m].docx,not specified,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+384,naukri_prasadashokghegade[3y_2m] (1).docx,pune,others,tcs,not specified,not specified,Tier-1,not specified,not specified
+385,pramod anil talwar.docx,bengaluru,java,mphasis,ntt data bangalore,slk  bangalore,Tier-2,Tier-3,Tier-3
+386,chamanti pujari_pega.docx,hyderabad,pega,accenture ,not specified,not specified,Tier-3,not specified,not specified
+387,naukri_ashokkumarpanda[4y_0m].docx,not specified,java,sr inteligent,htc global service,insightmobi solution,Tier-3,Tier-3,Tier-3
+388,ramadevi.docx,not specified,java,ibm,ebix cash,mars,Tier-1,Tier-3,Tier-3
+389,naukri_rajeshkumarsingh[7y_0m].docx,pune,java,nap application,not specified,not specified,Tier-3,not specified,not specified
+390,aparna_ui path.docx,not specified,python,ernst and young,tcs,not specified,Tier-3,Tier-1,not specified
+391,naukri_nareshjagiri[16y_0m].docx,hyderabad,.net,coforge,not specified,not specified,Tier-2,not specified,not specified
+392,naukri_deepakkumar[5y_6m] (1).docx,not specified,java,capgemini,team lease digital,not specified,Tier-1,Tier-3,not specified
+393,praveen periasamy.docx,bengaluru,others,eg hds llp,ariis,accenture ,Tier-3,Tier-3,Tier-3
+394,b preetham paul_wecjp00027289.docx,hyderabad,java,amazon,infosys,genpact,Tier-1,Tier-1,Tier-3
+395,resume.docx,new delhi,others,ilink digital,not specified,not specified,Tier-3,not specified,not specified
+396,naukri_priyangaramasubbu[4y_6m].docx,bengaluru,java,iapptio,not specified,not specified,Tier-3,not specified,not specified
+397,smita chandrakant wagh (1).docx,not specified,java,harman connecting,amdocs,tcs,Tier-3,Tier-3,Tier-1
+398,naukri_shaikmahaboobsubhani[4y_2m].docx,hyderabad,java,clean harbors  llp,not specified,not specified,Tier-3,not specified,not specified
+399,yugal bhagawan chaudhari.docx,pune,java,cognizant  ,mphasis,tata,Tier-1,Tier-2,Tier-3
+400,ravitejap.docx,hyderabad,others,mandarin oriental,not specified,not specified,Tier-3,not specified,not specified
+401,kareemulla.docx,hyderabad,java,tech mahindra,accord,hcl,Tier-1,Tier-3,Tier-1
+402,pulagara[5y_0m] (1).docx,not specified,pega,srg,ltimindtree,not specified,Tier-3,Tier-3,not specified
+403,naukri_aashishranjan[3y_5m] (1).docx,bengaluru,java,ust global,micro spark soft sloun,not specified,Tier-2,Tier-3,not specified
+404,naukri_mohammadjani[4y_2m].docx,hyderabad,java,verizon,groupe psa,not specified,Tier-3,Tier-3,not specified
+405,naukri_raghavbaghel[3y_3m].docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+406,naukri_sudhanshukumarjha[4y_3m].docx,not specified,java,mphasis,envision enterprise ,strateology it ,Tier-2,Tier-3,Tier-3
+407,shashi bhushan.docx,not specified,"java, python",not specified,not specified,not specified,not specified,not specified,not specified
+408,vikas reddy_1704263720082.docx,bengaluru,others,genesis infocom,not specified,not specified,Tier-3,not specified,not specified
+409,gantiavinash.docx,hyderabad,pega,mphasis,not specified,not specified,Tier-2,not specified,not specified
+410,naukri_abhiramkumarverma[6y_0m].docx,bengaluru,python,grant thornton us,not specified,not specified,Tier-3,not specified,not specified
+411,vishala kanashetti.docx,bengaluru,java,synechron,not specified,not specified,Tier-3,not specified,not specified
+412,maheswar.docx,chennai,others,photon infotech,path infotech,teg,Tier-3,Tier-3,Tier-3
+413,yugal chaudhari- a.docx,pune,java,cognizant  ,mphasis,tata,Tier-1,Tier-2,Tier-3
+414,naukri_nileshuttampawar[4y_0m].docx,pune,python,bmc,not specified,not specified,Tier-3,not specified,not specified
+415,naukri_saurabhntiwari[15y_0m].docx,noida,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+416,naukri_saitejag[4y_0m] (1).docx,other location,java,broadridge financial,centurylink ,not specified,Tier-3,Tier-3,not specified
+417,naukri_parlausheshwari[4y_3m] (1).docx,pune,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+418,naukri_ravianand[4y_8m].docx,bengaluru,"java, python",bank of america,sysco ,dtcc depository trust  clearing ,Tier-3,Tier-3,Tier-3
+419,naukri_niranjanreddymorumpalli[6y_6m].docx,not specified,others,luxoft  llp,not specified,not specified,Tier-3,not specified,not specified
+420,pradeep somanadha neti.docx,other location,others,hcl,harbingergroup,tesco bangalore,Tier-1,Tier-3,Tier-3
+421,himal turale.docx,hyderabad,java,harman connecting,not specified,not specified,Tier-3,not specified,not specified
+422,naukri_lakshmi[5y_0m].docx,not specified,java,slk,persistent,not specified,Tier-3,Tier-3,not specified
+423,naukri_himabindusingudasu[5y_4m].docx,not specified,python,genpact,ernst and young,tcs,Tier-3,Tier-3,Tier-1
+424,egurla parsharamulu.docx,other location,python,dxc,not specified,not specified,Tier-3,not specified,not specified
+425,naukri_bhawnagiri[4y_0m].docx,other location,java,tek system,not specified,not specified,Tier-3,not specified,not specified
+426,naukri_baswaraj[6y_8m].docx,hyderabad,java,global logic,citiustech healthcare  bangalore,capgemini  bangalore,Tier-3,Tier-3,Tier-3
+427,innova_sunilkumar_6 years.docx,hyderabad,pega,hcl,amazon development centre,not specified,Tier-1,Tier-3,not specified
+428,heeralal patel.docx,not specified,java,xoriant,not specified,not specified,Tier-3,not specified,not specified
+429,naukri_sravanikareti[4y_4m].docx,hyderabad,java,ez ,not specified,not specified,Tier-3,not specified,not specified
+430,naukri_dashrathshinde[4y_0m].docx,pune,java,tech mahindra,neosoft,intense,Tier-1,Tier-3,Tier-3
+431,naukri_venkataramaiahm[6y_0m].docx,hyderabad,others,prokarma softech,not specified,not specified,Tier-3,not specified,not specified
+432,venkatesh kurva (1).docx,hyderabad,"java, pega, .net",vega techno systms,not specified,not specified,Tier-3,not specified,not specified
+433,jeevan_pega.docx,not specified,"java, pega",hcl,business intelli,not specified,Tier-1,Tier-3,not specified
+434,veera venkata raviteja karothu_pega_hyderabad.docx,pune,"java, pega",evoke,stratsol,stu biz solution,Tier-3,Tier-3,Tier-3
+435,rajendra.docx,hyderabad,python,ibm,royal bank of scotland rbs,deepcompute  inc,Tier-1,Tier-3,Tier-3
+436,naukri_swathi[4y_8m].docx,other location,java,west infotech,capgemini,not specified,Tier-3,Tier-1,not specified
+437,prajesh munda_a.docx,bengaluru,java,reliance jio infocomm,not specified,not specified,Tier-3,not specified,not specified
+438,paul gurindapalli_pega.docx,hyderabad,pega,kanetix insurance inc,erie insurance,not specified,Tier-3,Tier-3,not specified
+439,naukri_anuragagrawal[6y_0m].docx,pune,others,bajaj finance,maharashtra scooters,grant thornton,Tier-3,Tier-3,Tier-3
+440,naukri_muralidurgapu[9y_0m] (1).docx,hyderabad,others,mouri tech,not specified,not specified,Tier-3,not specified,not specified
+441,naukri_ruship[11y_0m].docx,not specified,python,mobiloitte,pallaton,digital aptech,Tier-3,Tier-3,Tier-3
+442,naukri_praveenkumarg[8y_0m].docx,not specified,others,exela,exl servicecom  p,cognizant  ,Tier-3,Tier-3,Tier-1
+443,naukri_thanuja[5y_0m].docx,not specified,java,hcl,not specified,not specified,Tier-1,not specified,not specified
+444,naukri_priyaranjanpallai[5y_6m].docx,bengaluru,pega,spanidea,skylab infotech,technocon,Tier-3,Tier-3,Tier-3
+445,naukri_subhani5y_0m.docx,hyderabad,"java, pega",wipro,ltimindtree,bangalore,Tier-1,Tier-3,Tier-3
+446,nuthi shiva rama krishna.docx,hyderabad,java,accellor,genzeon,csir council for scientific and industrial research,Tier-3,Tier-3,Tier-3
+447,naukri_avulasekhar[4y_5m].docx,not specified,java,harman connecting,capgemini,cognizant  ,Tier-3,Tier-1,Tier-1
+448,profile-vivek sharma.docx,noida,"java, python",global logic,not specified,not specified,Tier-3,not specified,not specified
+449,naukri_nitinovhal[4y_2m] (2).docx,pune,java,yash,not specified,not specified,Tier-3,not specified,not specified
+450,gopi resume  .docx,hyderabad,java,ernst and young,not specified,not specified,Tier-3,not specified,not specified
+451,patel srinivas.docx,not specified,java,xtglobal,anthem  elevance health,pelitas,Tier-3,Tier-3,Tier-3
+452,suresh m.docx,not specified,others,global healthcare exchange,vertafore ,not specified,Tier-3,Tier-3,not specified
+453,naukri_surendrakumarpatwari[15y_0m].docx,other location,others,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+454,praveenkumar cherukuri.docx,not specified,pega,cno financial,high mark health,tokyo marine kiln,Tier-3,Tier-3,Tier-3
+455,naukri_ajaykumarjaysing[4y_5m] (1).docx,bengaluru,java,ntt data,not specified,not specified,Tier-3,not specified,not specified
+456,naukri_devamathijain[14y_5m].docx,other location,others,altimetrik,infomerica,capgemini,Tier-3,Tier-3,Tier-1
+457,naukri_akashgovindmali[8y_0m] (1).docx,pune,others,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+458,naukri_sushmitasgalagali[3y_6m].docx,bengaluru,python,larsen  toubro,not specified,not specified,Tier-3,not specified,not specified
+459,test automation engineer.docx,not specified,python,tcs,nemo nextgen,wipro infotech,Tier-1,Tier-3,Tier-3
+460,vamshi.docx,not specified,java,glow touch,not specified,not specified,Tier-3,not specified,not specified
+461,venkata ravindra reddy-pega developer.docx,not specified,pega,sopra steria,not specified,not specified,Tier-3,not specified,not specified
+462,naukri_jannukranthikumar[6y_6m].docx,hyderabad,"java, pega, .net",vega techno systmes,not specified,not specified,Tier-3,not specified,not specified
+463,naukri_rashmirekhasahu[5y_2m].docx,bengaluru,java,anzdomain,sc johnson,ford,Tier-3,Tier-3,Tier-3
+464,naukri_nagendrapandilllapalle[6y_9m] (1).docx,not specified,java,newday   development,knot ,not specified,Tier-3,Tier-3,not specified
+465,resume-ashish-kumar-pandey 2 1 (2).docx,noida,others,droisys,not specified,not specified,Tier-3,not specified,not specified
+466,naukri_perigallarajasekhar[4y_1m].docx,not specified,java,crown ,hcl,lti lt,Tier-3,Tier-1,Tier-3
+467,naukri_ganeshghorui[7y_4m].docx,kolkata,java,mindtree,not specified,not specified,Tier-2,not specified,not specified
+468,ankur+khule+_pmo.docx,pune,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+469,rishabh agarwal java (1).docx,bengaluru,"java, python",accenture,not specified,not specified,Tier-1,not specified,not specified
+470,supriya inaganti.docx,other location,others,canada municipality,adr chambers,not specified,Tier-3,Tier-3,not specified
+471,ramulu velmakanti_java.docx,not specified,java,mphasis,virtusa,capgemini consultancy,Tier-2,Tier-3,Tier-3
+472,kranthi kumar jannu (1).docx,hyderabad,"pega, .net",vega techno systmes,not specified,not specified,Tier-3,not specified,not specified
+473,kalyani vellamchety.docx,hyderabad,java,apporchid inc,not specified,not specified,Tier-3,not specified,not specified
+474,rakesh kumar rauto.docx,bengaluru,java,jetblue airways,not specified,not specified,Tier-3,not specified,not specified
+475,naukri_dandunaveen[4y_6m].docx,bengaluru,"java, pega",atos syntel,brandwidth,not specified,Tier-3,Tier-3,not specified
+476,naukri_maruthim[4y_6m].docx,bengaluru,java,trinity mobility,aeronautical development agency ministry of defense,govt of,Tier-3,Tier-3,Tier-3
+477,naukri_kumarabhishek[5y_11m].docx,bengaluru,java,cognizant  ,mindtrail,not specified,Tier-1,Tier-3,not specified
+478,swagat sourav jena.docx,bengaluru,java,happiest minds,wipro,not specified,Tier-3,Tier-1,not specified
+479,divya catherine.docx,chennai,java,expleo   vhi healthcare,ibm,cognizant  ,Tier-3,Tier-1,Tier-1
+480,naukri_ramyasa[5y_10m].docx,not specified,"java, pega",cognizant  ,accenture,not specified,Tier-1,Tier-1,not specified
+481,naukri_dineshkumaryadav[4y_1m].docx,not specified,java,infogain,not specified,not specified,Tier-3,not specified,not specified
+482,subhash chandra bezwada[5y_2m].docx,hyderabad,others,cognizant  ,unipart,wells castle infotech,Tier-1,Tier-3,Tier-3
+483,rajesh babu tanniru.docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+484,kunchapu prasad.docx,not specified,java,versatile,not specified,not specified,Tier-3,not specified,not specified
+485,naukri_sankarasubramanianr[10y_1m].docx,madurai,others,shell,munich re specialty insurance,encova insurance,Tier-3,Tier-3,Tier-3
+486,naukri_vemurivinaykumar[4y_0m].docx,not specified,java,apps associates i,shipconsole,not specified,Tier-3,Tier-3,not specified
+487,naukri_pavankumar[10y_0m] (1).docx,bengaluru,python,rakuten group,inc,socigeneral global solution centre,Tier-3,Tier-3,Tier-3
+488,kalyani kanakam_pega.docx,hyderabad,pega,evoke,areteans,infosys,Tier-3,Tier-3,Tier-1
+489,vara prasad.docx,hyderabad,java,virtusa,hexaware,natwest rbs,Tier-2,Tier-3,Tier-3
+490,naukri_nitinovhal[4y_2m].docx,bengaluru,java,collabera,not specified,not specified,Tier-3,not specified,not specified
+491,geetha sudea_pega_hyderabad.docx,other location,"java, pega",infosys,not specified,not specified,Tier-1,not specified,not specified
+492,naukri_supriyapatil[2y_2m].docx,other location,java,itr,not specified,not specified,Tier-3,not specified,not specified
+493,naukri_nitinovhal[4y_2m] (1).docx,bengaluru,java,collabera,not specified,not specified,Tier-3,not specified,not specified
+494,naukri_amrutakarvande[2y_11m].docx,pune,python,capgemini,not specified,not specified,Tier-1,not specified,not specified
+495,naukri_maheshkotiyan[15y_0m] (1).docx,pune,others,cuelogic,tata steel,capgemini,Tier-3,Tier-3,Tier-1
+496,venkatesh_qa_+10+years+exp+profile.docx,hyderabad,java,persistent,not specified,not specified,Tier-3,not specified,not specified
+497,innova-satwik reddy-pega developer.docx,hyderabad,pega,nivis info,not specified,not specified,Tier-3,not specified,not specified
+498,shivasrikanth_hns.docx,hyderabad,pega,mindtree,not specified,not specified,Tier-2,not specified,not specified
+499,naukri_vasalakumar[5y_4m].docx,not specified,others,juniper     ,cognizant ,not specified,Tier-3,Tier-1,not specified
+500,peeyushlal[6y_6m].docx,bengaluru,others,ust global,ge healthcare,not specified,Tier-2,Tier-3,not specified
+501,siddanth kanugutta.docx,hyderabad,java,unitedhealth group,not specified,not specified,Tier-3,not specified,not specified
+502,naukri_sanketkumar[4y_6m].docx,bengaluru,java,ust global,iolite,not specified,Tier-2,Tier-3,not specified
+503,naukri_pawankumar[3y_7m].docx,not specified,java,capgemini,gopro,salesforce,Tier-1,Tier-3,Tier-3
+504,jd for data analyst 2.docx,not specified,python,not specified,not specified,not specified,not specified,not specified,not specified
+505,arun kumar pyde.docx,not specified,pega,srinsoft,crowley,estes,Tier-3,Tier-3,Tier-3
+506,naukri_swapnasagarbadajena[4y_0m].docx,other location,java,techchefs    a virtusa company,not specified,not specified,Tier-3,not specified,not specified
+507,naukri_liteshmeshram[5y_2m].docx,hyderabad,others,kireeti soft,persistent,excelus ,Tier-3,Tier-3,Tier-3
+508,naukri_shruthigunukula[4y_3m].docx,hyderabad,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+509,siva prasad_prpc.docx,hyderabad,pega,evoke,nityo infotech,joulestowatts business ,Tier-3,Tier-3,Tier-3
+510,naukri_srinivashanumantharayappa[12y_0m] (1).docx,bengaluru,java,virtusa,infosys,not specified,Tier-2,Tier-1,not specified
+511,naukri_mrinal[5y_6m] (1).docx,not specified,others,orion astellas,not specified,not specified,Tier-3,not specified,not specified
+512,naukri_nagarjunareddy[4y_6m].docx,bengaluru,java,capgemini,cognizanthan digital,ibm,Tier-1,Tier-3,Tier-1
+513,akshitha_prpc.docx,not specified,pega,infosys,not specified,not specified,Tier-1,not specified,not specified
+514,dharun.docx,chennai,others,globistic,not specified,not specified,Tier-3,not specified,not specified
+515,baji saripudi-6.5 years-pega developer-spar-bangalore.docx,hyderabad,pega,sutherland global,not specified,not specified,Tier-3,not specified,not specified
+516,naukri_shaikhaltaf[4y_5m] (1).docx,hyderabad,java,intelizign engineering,cashlink global,not specified,Tier-3,Tier-3,not specified
+517,naukri_shubhamsahu[8y_3m] (3).docx,mumbai,java,aarav global product,not specified,not specified,Tier-3,not specified,not specified
+518,naukri_sakshamkumar[5y_6m].docx,bengaluru,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+519,uday kumar.docx,not specified,others,cloud collab,not specified,not specified,Tier-3,not specified,not specified
+520,mahender goud donkena.docx,hyderabad,java,mindtree,not specified,not specified,Tier-2,not specified,not specified
+521,naukri_gurudevsinghr[5y_0m].docx,hyderabad,java,cigniti,not specified,not specified,Tier-3,not specified,not specified
+522,sharonsd automation tester.docx,not specified,java,prodapt ,not specified,not specified,Tier-3,not specified,not specified
+523,rudrala nageswara rao.docx,hyderabad,java,bracket,not specified,not specified,Tier-3,not specified,not specified
+524,satish kumar.docx,hyderabad,python,novartis sebone,wipro,not specified,Tier-3,Tier-1,not specified
+525,naukri_veerendra[4y_9m].docx,not specified,java,relitech,not specified,not specified,Tier-3,not specified,not specified
+526,hema latha_pega.docx,not specified,pega,payroll netfinity,not specified,not specified,Tier-3,not specified,not specified
+527,hari prasath-pega.docx,chennai,"pega, .net",hcl,cognizant  ,voya financial,Tier-1,Tier-1,Tier-3
+528,naukri_vikasgaikwad[4y_0m].docx,pune,java,taxgenieresagit ,nitor infotech,not specified,Tier-3,Tier-3,not specified
+529,sumit java.docx,other location,java,times internet,not specified,not specified,Tier-3,not specified,not specified
+530,naukri_naveenkumarboda[7y_0m].docx,hyderabad,"java, pega",mphasis,not specified,not specified,Tier-2,not specified,not specified
+531,naukri_pradeepsinghparmar[13y_0m].docx,gurgaon,others,kothari metals,not specified,not specified,Tier-3,not specified,not specified
+532,naresh jagiri.docx,hyderabad,.net,coforge,not specified,not specified,Tier-2,not specified,not specified
+533,md faiyaz uddin_1703067198189.docx,not specified,others,esmob,optivalue tek consultanting,genex,Tier-3,Tier-3,Tier-3
+534,naukri_sobha[6y_2m].docx,hyderabad,pega,tcs,capgemini,paas,Tier-1,Tier-1,Tier-3
+535,naukri_rahull[15y_0m].docx,hyderabad,others,krypt,robert bosch,not specified,Tier-3,Tier-3,not specified
+536,naukri_poornachandrachaganti[4y_2m].docx,not specified,java,sanoits  ,tcs,not specified,Tier-3,Tier-1,not specified
+537,naukri_maheshreddykasarla[2y_8m].docx,not specified,java,lt infotech,mphasis,not specified,Tier-3,Tier-2,not specified
+538,naukri_jogendrasingh[3y_10m].docx,not specified,java,s r infotech,wipro,not specified,Tier-3,Tier-1,not specified
+539,naukri_rounaqara[5y_2m] (1).docx,other location,java,ciesto,not specified,not specified,Tier-3,not specified,not specified
+540,naukri_madhusudhanarao[12y_2m].docx,hyderabad,java,value momentum,ernst and young gds,capgemini,Tier-3,Tier-3,Tier-1
+541,naukri_chiranjeevipampana[6y_8m].docx,hyderabad,java,wipro,infosys,capgemini,Tier-1,Tier-1,Tier-1
+542,priyanka kanupuru.docx,bengaluru,python,not specified,not specified,not specified,not specified,not specified,not specified
+543,naukri_priyadharshinirajaboopathi[5y_11m].docx,chennai,python,mphasis,not specified,not specified,Tier-2,not specified,not specified
+544,manku madhu veera naga babu.docx,not specified,pega,coforge,hcl,cognizant,Tier-2,Tier-1,Tier-1
+545,gnaneshwar_pega.docx,hyderabad,pega,wipro,not specified,not specified,Tier-1,not specified,not specified
+546,raju kumar.docx,bengaluru,java,ziniosedge,binary fountain,ust global,Tier-3,Tier-3,Tier-2
+547,ramesh_pega developer.docx,chennai,pega,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+548,naukri_sriram[12y_0m].docx,not specified,others,tcs,accenture,ge medical,Tier-1,Tier-1,Tier-3
+549,resume (1).docx,hyderabad,python,helius computech,capgemini,not specified,Tier-3,Tier-1,not specified
+550,naukri_rahulpanday[4y_6m].docx,bengaluru,java,cognizant  ,tricon infotech,grapple info ,Tier-1,Tier-3,Tier-3
+551,veena-a.docx,bengaluru,java,sirma business consultant,not specified,not specified,Tier-3,not specified,not specified
+552,naukri_swapnilankushgawade[5y_10m] (1).docx,pune,java,volante,not specified,not specified,Tier-3,not specified,not specified
+553,premachandra saka_jobid qa-5717_scorecard.docx,other location,java,not specified,not specified,not specified,not specified,not specified,not specified
+554,naukri_karthickcg[4y_10m].docx,bengaluru,java,cgi,stg infotech llp,ivtl infoview,Tier-3,Tier-3,Tier-3
+555,rakshitha.docx,bengaluru,java,vmware,not specified,not specified,Tier-3,not specified,not specified
+556,naukri_mdfaiyazuddin[5y_0m].docx,not specified,python,genex,not specified,not specified,Tier-3,not specified,not specified
+557,naukri_hemanth[4y_0m].docx,not specified,java,accenture,not specified,not specified,Tier-1,not specified,not specified
+558,sujitha rajendran.docx,other location,others,miya ventures,not specified,not specified,Tier-3,not specified,not specified
+559,chandrakanth.docx,hyderabad,others,accenture,not specified,not specified,Tier-1,not specified,not specified
+560,naukri_rohiniambhore[4y_6m].docx,pune,java,s2 infotech,intelligic,not specified,Tier-3,Tier-3,not specified
+561,seleniumautomationtester_shwetamahajan.docx,not specified,"java, .net",rendezvous,blue door,bmw,Tier-3,Tier-3,Tier-3
+562,naukri_mahalingams[5y_6m].docx,chennai,java,capgemini,hexaware,not specified,Tier-1,Tier-3,not specified
+563,judson paul_pega developer.docx,hyderabad,"java, pega",cognizant,dll de lage landen financial,inc,Tier-1,Tier-3,Tier-3
+564,naresh p_pega developer.docx,not specified,"java, pega",thryve digital,ciberspring,verizon,Tier-3,Tier-3,Tier-3
+565,saniyabano.docx,indore,java,5exceptions  ,kangroo,not specified,Tier-3,Tier-3,not specified
+566,rahul kr.docx,new delhi,java,hcl,not specified,not specified,Tier-1,not specified,not specified
+567,naukri_kiran[4y_0m].docx,not specified,others,gapbridge,path infotech,tech mahindra,Tier-3,Tier-3,Tier-1
+568,pallavi bhosale java fullstack.docx,not specified,java,tcs,rolta defence,not specified,Tier-1,Tier-3,not specified
+569,pravin nale.docx,pune,others,tcs,dde,softcon,Tier-1,Tier-3,Tier-3
+570,naukri_mjeganathan[16y_0m].docx,chennai,java,mindgate ,solvedge,noveltytek ,Tier-3,Tier-3,Tier-3
+571,naukri_ashokkumar[13y_0m].docx,not specified,others,edgar efile ,photon interactive,not specified,Tier-3,Tier-3,not specified
+572,naukri_syamgandhavarapu[11y_0m].docx,not specified,others,citi bank,kaiser permanente,qualcomm,Tier-3,Tier-3,Tier-3
+573,vidhya shagar.docx,chennai,others,amazon ,not specified,not specified,Tier-3,not specified,not specified
+574,naukri_rashisrivastava[5y_0m].docx,new delhi,python,accenture,not specified,not specified,Tier-1,not specified,not specified
+575,naukri_moreshvarlingayat[10y_0m].docx,pune,others,bny mellon operations,not specified,not specified,Tier-3,not specified,not specified
+576,santhosh reddy.docx,hyderabad,pega,optum global ,not specified,not specified,Tier-3,not specified,not specified
+577,naukri_vamshikrishna[4y_5m].docx,hyderabad,java,stigentech it,not specified,not specified,Tier-3,not specified,not specified
+578,naukri_neetukumari[6y_0m].docx,other location,java,ayan infotech,smartwork,edunext,Tier-3,Tier-3,Tier-3
+579,naukri_mahaleqabegum[6y_6m] (1).docx,bengaluru,java,publicis sapient,ibm,not specified,Tier-3,Tier-1,not specified
+580,naukri_bhuvaneswar[4y_2m].docx,bengaluru,others,ntt data,not specified,not specified,Tier-3,not specified,not specified
+581,naukri_roshniharne[4y_4m].docx,pune,others,tieto,clover infotech,icici bank,Tier-3,Tier-3,Tier-3
+582,naukri_dusmantkumarnayak[5y_3m].docx,other location,java,tcs,cognizant  ,not specified,Tier-1,Tier-1,not specified
+583,naukri_indrani[13y_0m].docx,hyderabad,java,hcl,tech mahindra,mindtree,Tier-1,Tier-1,Tier-2
+584,kanchan bala barik.docx,not specified,others,altran,not specified,not specified,Tier-3,not specified,not specified
+585,ramesh balam.docx,hyderabad,pega,dxc,not specified,not specified,Tier-3,not specified,not specified
+586,naukri_anjaligupta[4y_6m].docx,pune,java,ibm,capgemini,epps infotech,Tier-1,Tier-1,Tier-3
+587,naukri_alikhan[5y_5m].docx,other location,others,florida  ,cognizant  ,biomerieux sa,Tier-3,Tier-1,Tier-3
+588,naukri_meghagm[4y_0m].docx,bengaluru,java,ibm,not specified,not specified,Tier-1,not specified,not specified
+589,innova-challapurushotham-pega developer.docx,hyderabad,pega,hcl,greenlime softtech,not specified,Tier-1,Tier-3,not specified
+590,naukri_battasudheerkumar[4y_1m].docx,hyderabad,others,clarion,not specified,not specified,Tier-3,not specified,not specified
+591,resume (2).docx,noida,java,aristocrat,not specified,not specified,Tier-3,not specified,not specified
+592,naukri_chakrapanig[4y_3m].docx,bengaluru,java,atos,not specified,not specified,Tier-3,not specified,not specified
+593,ravi teja.docx,hyderabad,others,valuelabs,not specified,not specified,Tier-3,not specified,not specified
+594,srinivasan_n.docx,not specified,pega,cognizant,not specified,not specified,Tier-1,not specified,not specified
+595,naukri_saikiran[5y_1m].docx,other location,others,cgi,not specified,not specified,Tier-3,not specified,not specified
+596,naukri_pasunurisatheeshkumar[5y_0m].docx,hyderabad,python,capgemini,not specified,not specified,Tier-1,not specified,not specified
+597,naukri_munipallerajeshkumar[15y_0m] (1).docx,not specified,others,hcl,not specified,not specified,Tier-1,not specified,not specified
+598,naga prashanti gattipati.docx,hyderabad,pega,cnam,sepe,nasco horizon,Tier-3,Tier-3,Tier-3
+599,somu.docx,bengaluru,others,hpe office,wipro,mesprosoft,Tier-3,Tier-1,Tier-3
+600,naukri_chinthamanisha[4y_0m].docx,hyderabad,java,yk innosoft,not specified,not specified,Tier-3,not specified,not specified
+601,m srikanth.docx,hyderabad,java,intellinet global,ibs,rigel,Tier-3,Tier-3,Tier-3
+602,imran khan.docx,not specified,others,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+603,naukri_vemalanagalakshmi[5y_5m].docx,chennai,java,not specified,not specified,not specified,not specified,not specified,not specified
+604,naukri_udayshankarreddy[6y_0m].docx,not specified,others,empirical ux  designer,not specified,not specified,Tier-3,not specified,not specified
+605,shwetabagadi.docx,pune,java,inautix,not specified,not specified,Tier-3,not specified,not specified
+606,sumanth d.docx,bengaluru,python,airaa corporates llp,not specified,not specified,Tier-3,not specified,not specified
+607,naukri_shankarnagoor[5y_6m].docx,not specified,java,hsbc,cisco,zensar,Tier-3,Tier-1,Tier-3
+608,naukri_abhilash[4y_1m].docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+609,ramana.docx,hyderabad,java,mindtree,cognizant  ,atos syntel,Tier-2,Tier-1,Tier-3
+610,naukri_akashwagh[5y_3m] (1).docx,hyderabad,others,acs(formerly called as ggk),not specified,not specified,Tier-3,not specified,not specified
+611,naga babu.docx,not specified,others,citiustech health care,not specified,not specified,Tier-3,not specified,not specified
+612,naukri_chandrashekarkoorapati[13y_5m].docx,hyderabad,java,accion labs,not specified,not specified,Tier-3,not specified,not specified
+613,naukri_bhashyamjyotheeshkumar[5y_5m].docx,bengaluru,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+614,naukri_sangitadas[3y_9m].docx,bengaluru,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+615,naukri_vosurivenkatasairam[5y_8m].docx,bengaluru,java,tecversa,not specified,not specified,Tier-3,not specified,not specified
+616,naukri_vattukularamu[6y_0m].docx,hyderabad,python,global logic,capgemini,foray,Tier-3,Tier-1,Tier-3
+617,satyendra yadav.docx,lucknow,java,speckyfox,not specified,not specified,Tier-3,not specified,not specified
+618,naukri_sourabhkumarsrivastava[6y_0m].docx,other location,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+619,naukri_bhanuprakashmadarasu[6y_3m] (1).docx,not specified,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+620,naukri_anchaladevendrasai[5y_8m].docx,not specified,java,ibm,capgemini,ge power,Tier-1,Tier-1,Tier-3
+621,srinivasa reddy b_pega.docx,hyderabad,pega,mindtree,tech mahindra,sm technosys,Tier-2,Tier-1,Tier-3
+622,sandeep_pega.docx,hyderabad,pega,wells fargo,capgemini,hsbc,Tier-3,Tier-1,Tier-3
+623,naukri_kondacharithardhreddy[4y_6m].docx,hyderabad,java,infor,not specified,not specified,Tier-3,not specified,not specified
+624,naukri_vanik[7y_6m].docx,bengaluru,"java, python",citi bank,hcl,salesforcecom,Tier-3,Tier-1,Tier-3
+625,naukri_rajashekertummala[4y_5m].docx,not specified,others,tcs,not specified,not specified,Tier-1,not specified,not specified
+626,ranjith rao.docx,hyderabad,java,wipro,happiest minds,adaequare info,Tier-1,Tier-3,Tier-3
+627,ravikanthpottabathini_pega developer_[9y_0m]_spar.docx,hyderabad,"java, pega",evoke,coforge,infosys,Tier-3,Tier-2,Tier-1
+628,tejasvini gajanan rajput.docx,pune,java,mphasis,not specified,not specified,Tier-2,not specified,not specified
+629,manoj_pega.docx,not specified,pega,cognizant,ltimindtree,not specified,Tier-1,Tier-3,not specified
+630,kranthivaran g.docx,hyderabad,others,dell,not specified,not specified,Tier-1,not specified,not specified
+631,abhishek dhadbale.docx,pune,others,data dynamics,not specified,not specified,Tier-3,not specified,not specified
+632,naukri_kareem[6y_8m].docx,not specified,"java, pega",value cyber tech,not specified,not specified,Tier-3,not specified,not specified
+633,naukri_apurvadarsh[4y_4m].docx,bengaluru,java,xc,hp enterprise,siam cements,Tier-3,Tier-3,Tier-3
+634,naukri_mamtavyas[20y_0m] (1).docx,bengaluru,others,accenture,not specified,not specified,Tier-1,not specified,not specified
+635,naukri_chandrika[3y_2m].docx,not specified,java,deutsche bank sg,chubb,not specified,Tier-3,Tier-3,not specified
+636,jd for devops manager.docx,not specified,python,not specified,not specified,not specified,not specified,not specified,not specified
+637,rijwana (1).docx,not specified,pega,systsems,cognizant,infosys,Tier-3,Tier-1,Tier-1
+638,spandana enamanda.docx,hyderabad,pega,coforge,not specified,not specified,Tier-2,not specified,not specified
+639,naukri_nandkumarpatil[6y_6m].docx,not specified,java,trantor,tech mahindra,not specified,Tier-3,Tier-1,not specified
+640,priyankachaudhari.docx,pune,others,harbinger,not specified,not specified,Tier-3,not specified,not specified
+641,naukri_saiganeshboda[2y_5m].docx,hyderabad,"java, python",legato health,not specified,not specified,Tier-3,not specified,not specified
+642,naukri_sekharburagadda[15y_0m].docx,hyderabad,others,apexon,infosys,tcs,Tier-3,Tier-1,Tier-1
+643,kayalvizhi ramakrishnan.docx,chennai,others,eagleburgmann ke,not specified,not specified,Tier-3,not specified,not specified
+644,naukri_elisha[7y_0m].docx,hyderabad,java,legato health,netxcell,wipro,Tier-3,Tier-3,Tier-1
+645,naukri_yeswika[4y_2m] (1).docx,hyderabad,java,cognizant,mouri tech,snovaspace,Tier-1,Tier-3,Tier-3
+646,maddineni ashok.docx,hyderabad,others,ge healthcare,not specified,not specified,Tier-3,not specified,not specified
+647,akhil charan sandaka - pega developer.docx,not specified,pega,apple inc,john deere,upc,Tier-3,Tier-3,Tier-3
+648,naukri_parveshkumar[4y_6m] (1).docx,not specified,java,hcl,dell,comtism ,Tier-1,Tier-1,Tier-3
+649,naukri_amarnathreddy[4y_6m].docx,not specified,python,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+650,naukri_praveen[4y_0m].docx,other location,java,accenture,not specified,not specified,Tier-1,not specified,not specified
+651,naukri_shyamalar[3y_4m].docx,bengaluru,java,unvired,not specified,not specified,Tier-3,not specified,not specified
+652,m rajesh.docx,bengaluru,"java, python",wipro,teamstreamz,cientra tech,Tier-1,Tier-3,Tier-3
+653,naukri_npenchalaiahpagathi[4y_5m].docx,bengaluru,others,mindtree,not specified,not specified,Tier-2,not specified,not specified
+654,naukri_vikasreddy[5y_6m].docx,bengaluru,others,genesis infocom,not specified,not specified,Tier-3,not specified,not specified
+655,karthik+resume.docx,hyderabad,"java, python",safe auto insurance company,cibil,not specified,Tier-3,Tier-3,not specified
+656,prasoon_jain_interview assesment sheet(java_backend).docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+657,naukri_tsneha[5y_2m].docx,not specified,java,algoleap,fastweb it ,not specified,Tier-3,Tier-3,not specified
+658,naukri_testing_qa resume.docx,not specified,java,ramco,not specified,not specified,Tier-3,not specified,not specified
+659,sreenivasulu.docx,bengaluru,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+660,naukri_indiramma[6y_0m] (1).docx,hyderabad,java,datamatics,not specified,not specified,Tier-2,not specified,not specified
+661,ramana reddy baddigam.docx,bengaluru,"java, python",radiiuscard ,not specified,not specified,Tier-3,not specified,not specified
+662,naukri_hemaraichandani[16y_0m].docx,other location,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+663,karthiyan seenivasan.docx,chennai,java,infosys,expleo group,verinite,Tier-1,Tier-3,Tier-3
+664,naukri_susmitha[3y_8m].docx,hyderabad,java,adeptpros it ,opentext,not specified,Tier-3,Tier-3,not specified
+665,tejeswara rao     .docx,not specified,"java, python",excellarate  ,clobdata techno ,zions ban,Tier-3,Tier-3,Tier-3
+666,naukri_radhikaraizada[11y_0m].docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+667,naukri_kishorkumarsinha[5y_5m].docx,hyderabad,"java, .net",ibridge techsoft,infostretch ,nextgen innovation lab,Tier-3,Tier-3,Tier-3
+668,naukri_gaddamvarshitha[3y_0m].docx,hyderabad,java,ibm,not specified,not specified,Tier-1,not specified,not specified
+669,k pratibha.docx,not specified,others,tcs,accenture,sap se,Tier-1,Tier-1,Tier-3
+670,shubhang_gupta.docx,not specified,java,publicis sapient,tech mahindra,coforge,Tier-3,Tier-1,Tier-2
+671,naukri_shatrughan[5y_6m].docx,hyderabad,java,global logic,ness,pandora rd labs panterra,Tier-3,Tier-3,Tier-3
+672,naukri_aabhinavrao[7y_0m].docx,not specified,java,synechron,not specified,not specified,Tier-3,not specified,not specified
+673,naukri_spandana[5y_1m] (1).docx,hyderabad,pega,coforge,not specified,not specified,Tier-2,not specified,not specified
+674,madhura8y_6m.docx,hyderabad,pega,thryve digital,hcl,myclassboardcom,Tier-3,Tier-1,Tier-3
+675,nikita kaur_prpc.docx,hyderabad,pega,mphasis,not specified,not specified,Tier-2,not specified,not specified
+676,t venkatesh kumar.docx,bengaluru,"java, python",jio platform  ajio,not specified,not specified,Tier-3,not specified,not specified
+677,naukri_josephinbarajsanthiyagu[18y_0m].docx,hyderabad,others,appsnext,not specified,not specified,Tier-3,not specified,not specified
+678,naukri_sandeepreddy[5y_5m].docx,hyderabad,others,not specified,not specified,not specified,not specified,not specified,not specified
+679,nitin prajapati.docx,indore,"java, .net",orion innovation,potomac,hce secure it,Tier-3,Tier-3,Tier-3
+680,naukri_lakshmiprasanna[4y_7m].docx,chennai,others,grace infotech,not specified,not specified,Tier-3,not specified,not specified
+681,naukri_bdhanasekhar[4y_6m].docx,bengaluru,others,diverse lynx,not specified,not specified,Tier-3,not specified,not specified
+682,ravi s.docx,hyderabad,"java, pega",not specified,not specified,not specified,not specified,not specified,not specified
+683,naukri_bhargavaadiga[5y_0m].docx,bengaluru,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+684,latcharaomarnidi.docx,hyderabad,java,ust global,virtusa,not specified,Tier-2,Tier-3,not specified
+685,naukri_maheshchennupati[6y_5m].docx,not specified,others,makesense,te connectivity,rmsi,Tier-3,Tier-3,Tier-3
+686,naukri_srinivasaraovadlamani[20y_0m].docx,hyderabad,java,wipro,not specified,not specified,Tier-1,not specified,not specified
+687,rohan pradeep.docx,pune,java,criatosoft,not specified,not specified,Tier-3,not specified,not specified
+688,naukri_indiramma[6y_0m].docx,hyderabad,java,datamatics,not specified,not specified,Tier-2,not specified,not specified
+689,naukri_araghunathareddy[5y_1m].docx,bengaluru,others,capgemini,not specified,not specified,Tier-1,not specified,not specified
+690,naukri_gunakarrao[17y_0m].docx,pune,java,persistent,not specified,not specified,Tier-3,not specified,not specified
+691,srikanth.docx,hyderabad,java,virtusa,cognizant,sentinel schneiderinvensys,Tier-2,Tier-1,Tier-3
+692,naukri_jyotianiketjadhav[2y_11m].docx,not specified,others,cera,not specified,not specified,Tier-3,not specified,not specified
+693,naukri_shayonsamanta[7y_0m].docx,bengaluru,java,infosys,tek,avaap it solution,Tier-1,Tier-3,Tier-3
+694,naukri_gjaveed[4y_0m].docx,bengaluru,java,accenture,not specified,not specified,Tier-1,not specified,not specified
+695,naukri_maheshponekanti[5y_8m].docx,hyderabad,"java, python",mindtree,ibm,not specified,Tier-2,Tier-1,not specified
+696,sophia clemency bonkuri_pega.docx,not specified,pega,amextechnology,cox automotivestechnology,arrowtechnology,Tier-3,Tier-3,Tier-3
+697,vindhya vemula.docx,hyderabad,others,accenture,cognizant  ,ubs,Tier-1,Tier-1,Tier-3
+698,soumyasree subhasis sahoo.docx,not specified,java,nationalhealthservicespine,citrus healthcare,panw,Tier-3,Tier-3,Tier-3
+699,sr+technologist.docx,hyderabad,java,oracle,not specified,not specified,Tier-3,not specified,not specified
+700,naukri_hari[12y_10m].docx,chennai,java,capgemini,blackboard,prodapt ,Tier-1,Tier-3,Tier-3
+701,nanda kishore. pilli.docx,hyderabad,java,infosys,vitech,not specified,Tier-1,Tier-3,not specified
+702,sakshi chauhan.docx,not specified,others,nextgen healthcare,cavisson,not specified,Tier-3,Tier-3,not specified
+703,naukri_suneel[4y_2m].docx,not specified,java,cognizant  ,srg,tcs,Tier-1,Tier-3,Tier-1
+704,neha kumari.docx,bengaluru,java,ibm,not specified,not specified,Tier-1,not specified,not specified
+705,naukri_sauravmanitripathi[9y_0m].docx,pune,others,not specified,not specified,not specified,not specified,not specified,not specified
+706,naukri_jaseemakhtar[5y_6m].docx,kolkata,pega,amazon,cognizant  ,virtusa,Tier-1,Tier-1,Tier-3
+707,naukri_ramaraobitakpatil[4y_6m] (1).docx,hyderabad,java,indus net,mphasis,hcl,Tier-3,Tier-2,Tier-1
+708,swapnil qa resume .docx,pune,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+709,srinivasa rao dasari-pega.docx,hyderabad,"java, pega",tcs,glovision techno,cibc,Tier-1,Tier-3,Tier-3
+710,naukri_venkye[4y_6m].docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+711,naukri_anil[5y_3m].docx,hyderabad,java,collabera,not specified,not specified,Tier-3,not specified,not specified
+712,naukri_anupamachintala[4y_5m].docx,hyderabad,"java, .net",goachiev,not specified,not specified,Tier-3,not specified,not specified
+713,naukri_kanchanpralhadlonagre[4y_4m].docx,other location,java,amdocs,not specified,not specified,Tier-3,not specified,not specified
+714,naukri_prayaggokhale[10y_0m].docx,not specified,others,plus business machines,rmz skyview,not specified,Tier-3,Tier-3,not specified
+715,naukri_sarmistha[13y_0m].docx,bengaluru,java,lt,not specified,not specified,Tier-3,not specified,not specified
+716,amal divakar.docx,kochi,java,tcs,cognizant  ,not specified,Tier-1,Tier-1,not specified
+717,sridevi_informatica1_1650448290497 (1).docx,hyderabad,others,sp global,not specified,not specified,Tier-3,not specified,not specified
+718,nikith l shetty-a.docx,mangalore,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+719,naukri_kapilsinghal[19y_0m] (1).docx,mumbai,others,marsh  mclennan companies,not specified,not specified,Tier-3,not specified,not specified
+720,sujitha rajendran-a.docx,not specified,others,iteanz,not specified,not specified,Tier-3,not specified,not specified
+721,naukri_sairamvaraprasad[3y_8m].docx,not specified,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+722,naukri_kiran[10y_0m].docx,hyderabad,others,accenture,ibm,prithvi  ,Tier-1,Tier-1,Tier-3
+723,naukri_abhijitvijayraomankar[5y_0m] (1).docx,pune,java,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+724,naukri_shwetachintawar[3y_3m].docx,pune,java,ezest ,not specified,not specified,Tier-3,not specified,not specified
+725,naukri_adityaanand[5y_2m] (1).docx,not specified,java,ozdocs,jconnect infotech,capgemini engineering,Tier-3,Tier-3,Tier-3
+726,abdul quadir.docx,not specified,java,wns it global solution,not specified,not specified,Tier-3,not specified,not specified
+727,naukri_siddhartha[5y_0m].docx,hyderabad,java,cgi,technvision solix,switch soft,Tier-3,Tier-3,Tier-3
+728,feeza alam.docx,bengaluru,java,conneqt digital,mta ujjivan small finance bank,wells fargo,Tier-3,Tier-3,Tier-3
+729,naukri_shyamkumar[6y_6m].docx,not specified,others,cyient,not specified,not specified,Tier-2,not specified,not specified
+730,naukri_ratnakumar[4y_0m].docx,chennai,pega,mindtree,capgemini,cgi,Tier-2,Tier-1,Tier-3
+731,naukri_aphanikumar[5y_2m].docx,not specified,others,evoke,not specified,not specified,Tier-3,not specified,not specified
+732,naukri_samirkumar[12y_0m].docx,gurgaon,others,sampark softwares,not specified,not specified,Tier-3,not specified,not specified
+733,naukri_shashankshekharsingh[11y_1m].docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+734,naukri_rounaqara[5y_2m].docx,other location,java,ciesto,not specified,not specified,Tier-3,not specified,not specified
+735,nakka venkatesh_pega.docx,not specified,pega,mindtree,coforge,berlian,Tier-2,Tier-2,Tier-3
+736,naukri_dpchandrarao[6y_0m].docx,hyderabad,others,rocklinetech champ,not specified,not specified,Tier-3,not specified,not specified
+737,chandrasekharvennapusa_hns .docx,not specified,pega,neo tech ,capgemini,virtusa,Tier-3,Tier-1,Tier-3
+738,naukri_ghodkevikasarjun[4y_0m].docx,not specified,java,igt,clover infotech,blueliner  sevices,Tier-3,Tier-3,Tier-3
+739,naukri_ashwinishirasangi[9y_5m].docx,bengaluru,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+740,oshankresume.docx,bengaluru,pega,not specified,not specified,not specified,not specified,not specified,not specified
+741,naukri_chaitanyat[4y_4m].docx,other location,java,virtusa,not specified,not specified,Tier-2,not specified,not specified
+742,naukri_saik[5y_3m].docx,not specified,others,atos,not specified,not specified,Tier-3,not specified,not specified
+743,naukri_anjalishaw[4y_0m].docx,other location,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+744,naukri_shubhamsahu[8y_3m] (1).docx,mumbai,java,aarav global product,not specified,not specified,Tier-3,not specified,not specified
+745,soujanyaresume1_1650265021801.docx,hyderabad,java,agility e,compulse system,agility,Tier-3,Tier-3,Tier-3
+746,khadar basha shaik.docx,not specified,others,pactera edge,capgemini,tcs,Tier-3,Tier-1,Tier-1
+747,siddardha.docx,not specified,others,lt infotech,valley,not specified,Tier-3,Tier-3,not specified
+748,naukri_anjaneyulupotla[6y_0m].docx,hyderabad,java,cigniti,agilifi  llp,2u technlogies,Tier-3,Tier-3,Tier-3
+749,ramesh kumar.docx,other location,java,emerio,not specified,not specified,Tier-3,not specified,not specified
+750,naukri_priyankakumari[4y_1m].docx,bengaluru,java,wipro,not specified,not specified,Tier-1,not specified,not specified
+751,naukri_pravinkumarmishra[25y_0m] (1).docx,hyderabad,others,not specified,not specified,not specified,not specified,not specified,not specified
+752,naukri_divyanthkumarkondu[5y_0m].docx,not specified,others,xerox holdings ,humana inc,not specified,Tier-3,Tier-3,not specified
+753,naukri_bhagabataparida[6y_0m].docx,pune,java,hsbc,not specified,not specified,Tier-3,not specified,not specified
+754,naukri_mallesh[6y_5m].docx,not specified,java,cognizant,not specified,not specified,Tier-1,not specified,not specified
+755,naukri_induri[4y_2m].docx,hyderabad,java,accenture,not specified,not specified,Tier-1,not specified,not specified
+756,chamballi d balasubramanyam.docx,bengaluru,others,wipro,not specified,not specified,Tier-1,not specified,not specified
+757,swapnil kambale-1.docx,pune,others,zensar,allscripts healthcare llp,microcom solution   microexcel llp,Tier-3,Tier-3,Tier-3
+758,mahesh ponnekanti.docx,hyderabad,"java, python",mindtree,ibm,not specified,Tier-2,Tier-1,not specified
+759,naukri_pranaroy[8y_0m] (1).docx,bengaluru,others,vmware,inc,accenture,Tier-3,Tier-3,Tier-1
+760,veera reddy (2).docx,not specified,pega,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+761,mahesh kandgule.docx,hyderabad,pega,hcl,not specified,not specified,Tier-1,not specified,not specified
+762,praveen kumar.docx,not specified,java,not specified,not specified,not specified,not specified,not specified,not specified
+763,naukri_vishnu[5y_1m].docx,hyderabad,others,zensar,useready,tcs,Tier-3,Tier-3,Tier-1
+764,naukri_babuyalavarthi[6y_4m].docx,hyderabad,java,cognizant  ,syngymaxim ,not specified,Tier-1,Tier-3,not specified
+765,naukri_joydeepsengupta[9y_0m].docx,bengaluru,others,apolis,mastech digital,scarlet wireless  managed staffing,Tier-3,Tier-3,Tier-3
+766,naukri_angothujagannaik[3y_3m].docx,pune,java,umitas,fssfinancial  system,cognizant,Tier-3,Tier-3,Tier-1
+767,naukri_ravikumarg[3y_2m].docx,hyderabad,java,blueliner,not specified,not specified,Tier-3,not specified,not specified
+768,jyothi unnam-9.4 years-pega developer-spar-bangalore.docx,other location,"java, python",abc ,not specified,not specified,Tier-3,not specified,not specified
+769,naukri_chandansagar[5y_4m].docx,bengaluru,java,cognizant,not specified,not specified,Tier-1,not specified,not specified
+770,mahendra.docx,vizag,java,cognizant,not specified,not specified,Tier-1,not specified,not specified
+771,sreeja pachunoori.docx,hyderabad,java,not specified,not specified,not specified,not specified,not specified,not specified
+772,naukri_lalithabollikonda[3y_7m].docx,hyderabad,"java, python",capgemini,axaim,not specified,Tier-1,Tier-3,not specified
+773,kanmaninithya- a.docx,bengaluru,others,creative softech,hcl,sumtwo,Tier-3,Tier-1,Tier-3
+774,siddi sai reddy.docx,hyderabad,"java, .net",virtusa,not specified,not specified,Tier-2,not specified,not specified
+775,naukri_vineet[6y_1m].docx,not specified,"java, pega",accenture,mphasis,not specified,Tier-1,Tier-2,not specified
+776,naukri_mukeshkumar[8y_7m].docx,chennai,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+777,hrusikesh_dev.docx,bengaluru,java,apexon,not specified,not specified,Tier-3,not specified,not specified
+778,naukri_sarathchandra[5y_2m].docx,bengaluru,others,atos syntel,not specified,not specified,Tier-3,not specified,not specified
+779,naukri_ankitkumartiwari[6y_6m].docx,not specified,others,idc  ,not specified,not specified,Tier-3,not specified,not specified
+780,naukri_ayodhyagurram[4y_11m].docx,hyderabad,java,wipro,not specified,not specified,Tier-1,not specified,not specified
+781,g venkatesh.docx,hyderabad,"java, pega, .net",amedha info,not specified,not specified,Tier-3,not specified,not specified
+782,ankit abhinav.docx,bengaluru,others,rackspace,hcl,loginworks softwares,Tier-3,Tier-1,Tier-3
+783,naukri_raviranjankumar[6y_6m].docx,other location,java,mphasis,not specified,not specified,Tier-2,not specified,not specified
+784,naukri_sandeep[5y_0m].docx,bengaluru,"java, python",relanto ai,cgi,not specified,Tier-3,Tier-3,not specified
+785,naukri_hussainkhan[5y_3m].docx,chennai,java,mphasis,not specified,not specified,Tier-2,not specified,not specified
+786,naukri_jagathisha[8y_0m].docx,bengaluru,python,justdial,mphasis,not specified,Tier-3,Tier-2,not specified
+787,naukri_chandrasekharcherukuri[21y_0m] (1).docx,hyderabad,"java, .net",infosys,pepsico  iscp,hof everest,Tier-1,Tier-3,Tier-3
+788,pooja m.docx,ahmedabad,java,not specified,not specified,not specified,not specified,not specified,not specified
+789,fico jd.docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+790,naukri_alamelmangai[3y_4m].docx,chennai,others,citi bank,apac,royal bank of canada,Tier-3,Tier-3,Tier-3
+791,innova-ashokkunchala -pega developer.docx,hyderabad,pega,wipro,ey,not specified,Tier-1,Tier-3,not specified
+792,sailakshmi@2023 update resume.docx,hyderabad,"java, pega",hcl,not specified,not specified,Tier-1,not specified,not specified
+793,naukri_vikaspancharia[7y_0m].docx,bengaluru,java,wipro,capgemini,simbus,Tier-1,Tier-1,Tier-3
+794,naukri_prashantrai[12y_0m].docx,hyderabad,others,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+795,naukri_ravikumarsharma[5y_9m].docx,bengaluru,java,illumine soft res  dev,not specified,not specified,Tier-3,not specified,not specified
+796,murali krishna.docx,hyderabad,pega,stu biz ,not specified,not specified,Tier-3,not specified,not specified
+797,sridhar r.docx,bengaluru,others,sirion labs,sms magic,sprinklr,Tier-3,Tier-3,Tier-3
+798,rama rao bitak patil.docx,hyderabad,java,indus net,mphasis,hcl,Tier-3,Tier-2,Tier-1
+799,naukri_kandebhavani[5y_1m] (1).docx,hyderabad,java,publics sapient,not specified,not specified,Tier-3,not specified,not specified
+800,reshma nanjappak.docx,bengaluru,others,abinbev,cognizant ,hewlett packard hp,Tier-3,Tier-1,Tier-3
+801,naukri_binoytv[9y_0m].docx,bengaluru,others,dover,not specified,not specified,Tier-3,not specified,not specified
+802,naukri_farazalikhan[8y_0m] (1).docx,gurgaon,others,ernst and young,tata steel,jk ut wide safe city project,Tier-3,Tier-3,Tier-3
+803,sandeep kumar battula_pega.docx,hyderabad,pega,virtusa,acro business ,not specified,Tier-2,Tier-3,not specified
+804,rakesh shenishetty.docx,not specified,others,dell,not specified,not specified,Tier-1,not specified,not specified
+805,naukri_nagavaraprasad[7y_0m].docx,not specified,java,cyient,not specified,not specified,Tier-2,not specified,not specified
+806,naukri_nagireddy[3y_11m].docx,other location,java,value labs,not specified,not specified,Tier-3,not specified,not specified
+807,hari teja kuruba.docx,not specified,python,gspann  inc,not specified,not specified,Tier-3,not specified,not specified
+808,naukri_chelumgarimadhava[4y_0m] (1).docx,bengaluru,"java, python",cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+809,naukri_srinivasareddy[16y_0m] (1).docx,hyderabad,python,not specified,unilever,harman connected  a samsung company,not specified,Tier-3,Tier-3
+810,naukri_ssahmed[12y_0m].docx,bengaluru,others,algonomy,not specified,not specified,Tier-3,not specified,not specified
+811,raju kumar-a.docx,bengaluru,java,ziniosedge,binary fountain,ust global,Tier-3,Tier-3,Tier-2
+812,naukri_ravindrakakad[3y_0m].docx,hyderabad,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+813,malles.docx,not specified,others,fedex,unitrax,not specified,Tier-3,Tier-3,not specified
+814,karthikeyan subramanian.docx,other location,python,xyz ,not specified,not specified,Tier-3,not specified,not specified
+815,job description - sap sd.docx,bengaluru,others,walmart global tech,not specified,not specified,Tier-3,not specified,not specified
+816,raghuteja.docx,not specified,java,cognizant  ,ranal  ,not specified,Tier-1,Tier-3,not specified
+817,naukri_sarthakswarupnayak[3y_0m].docx,not specified,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+818,naukri_ravi r updated resume.docx,chennai,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+819,naukri_shalinireddybommana[7y_2m].docx,hyderabad,java,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+820,naukri_kajalkumari[5y_1m].docx,hyderabad,java,deloitte,not specified,not specified,Tier-1,not specified,not specified
+821,naukri_divyatangudu[4y_1m].docx,not specified,java,tech mahindra,cognizant  ,google,Tier-1,Tier-1,Tier-1
+822,sandeep.docx,bengaluru,"java, python",relanto ai,cgi,salesforce,Tier-3,Tier-3,Tier-3
+823,veena.docx,bengaluru,java,sirma business consultant,not specified,not specified,Tier-3,not specified,not specified
+824,rajireddyvaddireddy_pega developer_[6y_0m]_spar.docx,hyderabad,"java, pega",mindtree,accenture,zensar,Tier-2,Tier-1,Tier-3
+825,naukri_harishchandrasekaran[10y_8m] (1).docx,bengaluru,others,not specified,not specified,not specified,not specified,not specified,not specified
+826,naukri_manishkumar[9y_0m].docx,other location,others,agreeya ,not specified,not specified,Tier-3,not specified,not specified
+827,naukri_chandrashekharmaherey[4y_8m].docx,other location,java,tcs,not specified,not specified,Tier-1,not specified,not specified
+828,ghazala parveen ansari.docx,noida,others,coditro llp,not specified,not specified,Tier-3,not specified,not specified
+829,shruti sanjeev mahule.docx,hyderabad,others,deloitte,eximius tech innovations,not specified,Tier-1,Tier-3,not specified
+830,geetha p.docx,not specified,java,ibm,sysbig,pitney bowes,Tier-1,Tier-3,Tier-3
+831,deepak kumar naik.docx,other location,java,sprinto,not specified,not specified,Tier-3,not specified,not specified
+832,naukri_satyajeetsahu[5y_3m].docx,hyderabad,java,synechron,virtusa,micro sparks  ,Tier-3,Tier-3,Tier-3
+833,naukri_venkattulugu[4y_4m].docx,hyderabad,java,tcs,luxoft company current,not specified,Tier-1,Tier-3,not specified
+834,hanumanthay5y_1m.docx,hyderabad,pega,mgs,not specified,not specified,Tier-3,not specified,not specified
+835,pradeep babu chintala cheruvu.docx,hyderabad,java,optum global ,not specified,not specified,Tier-3,not specified,not specified
+836,naukri_dsagarrao[4y_0m].docx,hyderabad,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+837,naukri_divyanshsaxena[7y_0m].docx,other location,java,siemens,guardian  operations,accenture ,Tier-3,Tier-3,Tier-3
+838,shila -1 (002).docx,pune,java,capita ind,not specified,not specified,Tier-3,not specified,not specified
+839,tanuj kumar pathak.docx,bengaluru,java,rdandx,not specified,not specified,Tier-3,not specified,not specified
+840,naukri_sushantkumarmallick[9y_0m] (1).docx,other location,python,abc ,not specified,not specified,Tier-3,not specified,not specified
+841,ramanjaneyulu gidda.docx,hyderabad,"java, python",ust global,capgemini,not specified,Tier-2,Tier-1,not specified
+842,raman janeyulu- a.docx,bengaluru,others,wipro,lt infotech,capgemini,Tier-1,Tier-3,Tier-1
+843,naukri_pratikdahule[3y_6m].docx,pune,java,infovision lab,not specified,not specified,Tier-3,not specified,not specified
+844,sai+prudhvi+resume.docx,other location,others,advance auto parts,deloitte,infosys,Tier-3,Tier-1,Tier-1
+845,venkatesh m.docx,not specified,java,capefox,tvs credit,bgw,Tier-3,Tier-3,Tier-3
+846,nasreen shaikh_cv.docx,other location,python,abc ,not specified,not specified,Tier-3,not specified,not specified
+847,kanmaninithya.docx,bengaluru,others,creative softech,hcl,sumtwo,Tier-3,Tier-1,Tier-3
+848,g chandrahas reddy.docx,bengaluru,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+849,naukri_rohitranjan[9y_0m].docx,not specified,python,galaxe ,not specified,not specified,Tier-3,not specified,not specified
+850,naukri_bhaskarasompalli[4y_1m].docx,not specified,java,jp morgan,not specified,not specified,Tier-3,not specified,not specified
+851,naukri_ravivarmarayapati[4y_6m].docx,bengaluru,java,valley,not specified,not specified,Tier-3,not specified,not specified
+852,naukri_reshmam[3y_5m].docx,bengaluru,others,ibm,not specified,not specified,Tier-1,not specified,not specified
+853,naukri_chetanachingamsetti[7y_0m].docx,bengaluru,python,cognizant,not specified,birlasoft,Tier-1,not specified,Tier-3
+854,kalyan siva kumar.docx,not specified,others,fifth note,not specified,not specified,Tier-3,not specified,not specified
+855,vinay kumar pandey.docx,hyderabad,others,4serve  inc,not specified,not specified,Tier-3,not specified,not specified
+856,sunil rcv12.docx,other location,java,persistent system,not specified,not specified,Tier-3,not specified,not specified
+857,naukri_avinash[18y_0m].docx,bengaluru,python,koch business ,not specified,not specified,Tier-3,not specified,not specified
+858,rajalaxmi.docx,hyderabad,pega,accenture,not specified,not specified,Tier-1,not specified,not specified
+859,naukri_nlokesh[8y_3m].docx,bengaluru,others,cognizant  ,not specified,not specified,Tier-3,not specified,not specified
+860,shashigaded_pega.docx,bengaluru,pega,quess corp,virtusa,cognizant  ,Tier-3,Tier-3,Tier-1
+861,ashhar hassan.docx,bengaluru,others,acronotics,emudhra,not specified,Tier-3,Tier-3,not specified
+862,naukri_vinayakumarchinchinada[3y_6m].docx,not specified,"java, python",varsun etechnologies,capgemini,not specified,Tier-3,Tier-1,not specified
+863,naukri_venkateswarlukoppu[6y_9m] (1).docx,not specified,java,cognizant  ,infosys,ferns and petals,Tier-1,Tier-1,Tier-3
+864,naukri_vikasravindrapotdar[8y_0m].docx,pune,others,infosys,not specified,not specified,Tier-1,not specified,not specified
+865,naukri_amolaniljadhav[21y_0m].docx,pune,others,aeries  group atg,not specified,not specified,Tier-3,not specified,not specified
+866,trushali_sardal.docx,pune,others,john deere,pkmpl phoenix knowledge management,searce  analytics llp,Tier-3,Tier-3,Tier-3
+867,naukri_rajeshsingam[10y_0m].docx,hyderabad,java,optum global ,not specified,not specified,Tier-3,not specified,not specified
+868,richa-arora.docx,noida,others,acs american cyber system ,aditi staffing,collabera,Tier-3,Tier-3,Tier-3
+869,naukri_venugopalreddythupakula[4y_1m].docx,bengaluru,others,persistent,not specified,not specified,Tier-3,not specified,not specified
+870,naukri_abhishekdubey[7y_8m].docx,pune,java,ibm,tcs,tech mahindra,Tier-1,Tier-1,Tier-1
+871,subhani_pega.docx,hyderabad,"java, pega",wipro,ltimindtree,tech mahindra,Tier-1,Tier-3,Tier-1
+872,naukri_deepakmalkari[4y_0m].docx,hyderabad,pega,american express,capgemini,not specified,Tier-3,Tier-1,not specified
+873,jsganesh[7y_0m].docx,not specified,others,wipro,dell,vmware,Tier-1,Tier-1,Tier-3
+874,venkata pukalla.docx,hyderabad,"java, pega",think  learn,not specified,not specified,Tier-3,not specified,not specified
+875,naukri_pravinkumarmishra[20y_0m] (1).docx,hyderabad,others,uidai,microsoft,surat smart city,Tier-3,Tier-1,Tier-3
+876,naukri_puneetsakhuja[23y_0m].docx,pune,others,bristlecone mahindra,ltimindtree,sutherland global,Tier-3,Tier-3,Tier-3
+877,kulasekar.docx,not specified,java,publicis sapient,not specified,not specified,Tier-3,not specified,not specified
+878,naukri_rajeshrathod[3y_10m].docx,other location,java,punctuations solution,not specified,not specified,Tier-3,not specified,not specified
+879,nambirajan ganeshan.docx,not specified,others,accenture,not specified,not specified,Tier-1,not specified,not specified
+880,ramireddy subhadra.docx,hyderabad,java,virtusa,vagdevi it ,jpmc,Tier-2,Tier-3,Tier-3
+881,naukri_supriyarajusattegiri[3y_1m] (1).docx,pune,java,not specified,not specified,not specified,not specified,not specified,not specified
+882,naukri_pudibhavya[4y_5m].docx,not specified,java,capgemini,not specified,not specified,Tier-1,not specified,not specified
+883,naukri_vikaskumar[8y_0m].docx,other location,"java, python",tcs,loginsoft,msrit,Tier-1,Tier-3,Tier-3
+884,tmaheshkumar.docx,other location,others,lifestyle,abotts  ind,optimum,Tier-3,Tier-3,Tier-3
+885,nagasai.docx,other location,java,capgemini,ttk service,cognizant,Tier-1,Tier-3,Tier-1
+886,naukri_manojsalunkhe[22y_0m] (1).docx,pune,others,capgemini,atos,graymatics,Tier-1,Tier-3,Tier-3
+887,naukri_sateesh[4y_5m].docx,other location,java,tcs,met life inc,state bank of,Tier-1,Tier-3,Tier-3
+888,manjunathpy.docx,bengaluru,others,intelliest,techance   lt,gokaldas exports,Tier-3,Tier-3,Tier-3
+889,naukri_yamuna[10y_0m].docx,hyderabad,others,not specified,not specified,not specified,not specified,not specified,not specified
+890,_ameena.docx,not specified,"java, pega",sopra steria,not specified,not specified,Tier-3,not specified,not specified
+891,rajitha.docx,hyderabad,others,gaman  ,not specified,not specified,Tier-3,not specified,not specified
+892,naukri_soumyasalla[4y_6m].docx,hyderabad,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+893,naukri_ejjirothurajiv[4y_0m].docx,hyderabad,java,cognizant,not specified,not specified,Tier-1,not specified,not specified
+894,snehal mahendra paramane.docx,pune,java,zensar,lnt infotech,not specified,Tier-3,Tier-3,not specified
+895,divya kilari.docx,hyderabad,java,tcs,ntech global ,vibhulabs inc,Tier-1,Tier-3,Tier-3
+896,naukri_epkrishnanath[16y_0m] (1).docx,other location,python,xyz ,not specified,not specified,Tier-3,not specified,not specified
+897,pratibha a.docx,pune,java,kpit,not specified,not specified,Tier-2,not specified,not specified
+898,naukri_prasannak[7y_2m].docx,not specified,java,ust global,not specified,not specified,Tier-2,not specified,not specified
+899,suprabhat gupta.docx,not specified,others,tcs,not specified,not specified,Tier-1,not specified,not specified
+900,naukri_labhishettyvikas[4y_4m].docx,not specified,"java, python",trantor,nichebit softech,dhanush infotech,Tier-3,Tier-3,Tier-3
+901,raviteja-pega.docx,hyderabad,"java, pega",standard chartered,areteans  ,w3softech,Tier-3,Tier-3,Tier-3
+902,manoharthippareddypega.docx,hyderabad,"java, pega",mindtree,coforge,synechron,Tier-2,Tier-2,Tier-3
+903,naukri_neelimanavudu[3y_2m].docx,other location,"java, python",capgemini,not specified,not specified,Tier-1,not specified,not specified
+904,naukri_siddharthavardhangadipa[12y_0m].docx,hyderabad,python,whitespace health omega healthcare,not specified,not specified,Tier-3,not specified,not specified
+905,naukri_mukeshchandrasuyal[13y_5m].docx,not specified,python,advance auto parts,experian,trianz holding,Tier-3,Tier-3,Tier-3
+906,naukri_adarshsharma[9y_0m].docx,other location,others,unitedhealth group,not specified,not specified,Tier-3,not specified,not specified
+907,naukri_immediatejoinersapnachopade[10y_0m].docx,pune,"java, pega",santechsoft,infosys,tcs,Tier-3,Tier-1,Tier-1
+908,naukri_shikhachaudhary[3y_6m].docx,not specified,java,crocus robotics,not specified,not specified,Tier-3,not specified,not specified
+909,naukri_tmaheshkumar[4y_10m].docx,other location,others,lifestyle,abotts  ind,optimum infosystem,Tier-3,Tier-3,Tier-3
+910,sandeepkumar6y_2m.docx,hyderabad,pega,tech mahindra,cognizant,not specified,Tier-1,Tier-1,not specified
+911,naukri_adityareddyvanga[5y_1m].docx,not specified,pega,tech mahindra,not specified,not specified,Tier-1,not specified,not specified
+912,naukri_bmshareef[5y_8m].docx,hyderabad,others,capgemini,infosys,not specified,Tier-1,Tier-1,not specified
+913,paladigopikrishna.docx,hyderabad,pega,amazon,vvn,not specified,Tier-1,Tier-3,not specified
+914,jagathisha_ sre.docx,bengaluru,python,justdial,mphasis,not specified,Tier-3,Tier-2,not specified
+915,prakash.docx,not specified,others,wipro,technodysis,flexagon,Tier-1,Tier-3,Tier-3
+916,manoj_mohanty_java.docx,other location,java,employeeteamleasscom,cybage,mastercom service,Tier-3,Tier-3,Tier-3
+917,subham pattanaik.docx,not specified,"java, pega",accenture ,coforge ,suntec business ,Tier-3,Tier-3,Tier-3
+918,saikrishna yallabandi.docx,hyderabad,java,capgemini,citiustech healthcare,tcs,Tier-1,Tier-3,Tier-1
+919,naukri_rajeshpagadala[5y_0m].docx,hyderabad,java,acl digital,bracket,ivy comptech,Tier-3,Tier-3,Tier-3
+920,narendarvaragani-pega.docx,hyderabad,"java, pega, python",atos syntel,not specified,not specified,Tier-3,not specified,not specified
+921,naukri_sandeep9y_0m.docx,hyderabad,pega,wells fargo,capgemini,hsbc,Tier-3,Tier-1,Tier-3
+922,naukri_anjaliddixit[10y_0m].docx,not specified,java,tcs,amex,paypal,Tier-1,Tier-3,Tier-3
+923,naukri_jatinchugh[5y_1m].docx,not specified,java,blume global,manhattan associates,not specified,Tier-3,Tier-3,not specified
+924,sai teja kurra_testing (1).docx,not specified,java,blankbot,not specified,not specified,Tier-3,not specified,not specified
+925,upendra_a.docx,other location,java,infosys,not specified,not specified,Tier-1,not specified,not specified
+926,naukri_sanghpalsheshraochabukswar[5y_6m].docx,pune,others,easybi ,not specified,not specified,Tier-3,not specified,not specified
+927,abhishekyadav_pega developer_[8y_5m]_spar.docx,not specified,"java, pega",mphasis,not specified,not specified,Tier-2,not specified,not specified
+928,maha nanda.docx,hyderabad,java,kinolve    ascent business,wipro,not specified,Tier-3,Tier-1,not specified
+929,naukri_arunachalamgunasekaran[15y_0m].docx,chennai,others,informatica,not specified,not specified,Tier-3,not specified,not specified
+930,tayyaba.docx,hyderabad,others,adobe,not specified,not specified,Tier-3,not specified,not specified
+931,venkatesh potnuru.docx,not specified,java,simplify 3x,carelon global ,carelon global  health,Tier-3,Tier-3,Tier-3
+932,s thirupathaiah.docx,not specified,pega,cognizant  ,not specified,not specified,Tier-1,not specified,not specified
+933,naukri_nareshhalvithogata[11y_0m].docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+934,sandeep kondapalli.docx,hyderabad,others,valuelabs,not specified,not specified,Tier-3,not specified,not specified
+935,ramana reddy baddigam-a.docx,bengaluru,"java, python",radiiuscard ,not specified,not specified,Tier-3,not specified,not specified
+936,smruti ranjan pradhan.docx,not specified,"java, python",capgemini,not specified,not specified,Tier-1,not specified,not specified
+937,naukri_chandrashekhar[8y_0m].docx,bengaluru,others,general mills,not specified,not specified,Tier-3,not specified,not specified
+938,naukri_bhimraorameshgawai[5y_2m].docx,mumbai,java,smarte inc,not specified,not specified,Tier-3,not specified,not specified
+939,jussrinivasthota-pega.docx,hyderabad,pega,foray,msn labs,not specified,Tier-3,Tier-3,not specified
+940,naukri_sohitkumar[7y_0m].docx,other location,others,accolite digital,not specified,not specified,Tier-3,not specified,not specified
+941,nitin kumar garg_pega.docx,noida,"java, pega",coforge,uhc,optum,Tier-2,Tier-3,Tier-3
+942,naukri_sachinkumar[11y_0m] (1).docx,not specified,others,not specified,not specified,not specified,not specified,not specified,not specified
+943,innova- vinay kumar k - pega developer.docx,not specified,"java, pega",wells fargo,link group,srin soft tech,Tier-3,Tier-3,Tier-3
+944,naukri_saurabhpatil[9y_6m].docx,mumbai,others,disprz mumbai,not specified,not specified,Tier-3,not specified,not specified
+945,naukri_krishnan[5y_0m].docx,other location,others,quess corp,vantage integrated security ,asian paints  mysore plant,Tier-3,Tier-3,Tier-3
+946,naukri_bhanuchander[8y_9m] (1).docx,not specified,others,accenture,ibm,infosys,Tier-1,Tier-1,Tier-1
+947,anil babu-pega.docx,hyderabad,pega,virtusa,not specified,not specified,Tier-2,not specified,not specified
+948,naukri_ravindra[4y_2m] (1).docx,hyderabad,java,cognizant,virtusa,conduent business,Tier-1,Tier-3,Tier-3
+949,naukri_yashok[4y_6m].docx,not specified,pega,versatile softwares,not specified,not specified,Tier-3,not specified,not specified
