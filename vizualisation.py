@@ -1,4 +1,5 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request,make_response,render_template
+import os
 import pandas as pd
 import numpy as np
 from pyvis.network import Network
@@ -16,7 +17,7 @@ def get_data():
     print("Loading data")
     #r"All_Sets_Resume_Data.csv"
     # df = pd.read_csv(r"Skills_Final_Extracted_Skills_updated_6.csv")
-    df = pd.read_csv(r"All_Sets_Resume_Data_1.csv")
+    df = pd.read_csv(r"All_Sets_Resume_Data_1.csv",encoding='ISO-8859-1')
     df.drop_duplicates(subset=['name'],keep='last',inplace=True)
     unique_companies1 = df["Company_Latest"].unique().tolist()
     unique_companies2 = df["CompanyO1"].unique().tolist()
@@ -181,6 +182,7 @@ def get_data():
     # print(net)
     # net.remove_nodes_from([node for node in net.nodes if node not in from_values and node not in to_values])
     # net.show_buttons(filter_=None)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
     net.write_html(name='network_graph.html',local=True,notebook=False,open_browser=False)
     # net.show(name='network_graph.html')
     # net.show(
@@ -262,11 +264,21 @@ def get_data():
                     new_net.add_edge(i[0], i[1],color=i[2], physics=False, title=i[3])
     # new_net.show_buttons(filter_=None)
     new_net.write_html(name='network_graph1.html',local=True,notebook=False)
-        
-    # net.show(
-    #     "network_graph.html",
-    #     notebook=False,
-    # )
+    # Construct the file paths
+    # network_graph_path = os.path.join(current_dir, 'network_graph.html')
+    # # Return the HTML files as a response
+    # with open(network_graph_path, 'rb') as f:
+    #     html_content1 = f.read()
+    # network_graph1_path = os.path.join(current_dir, 'network_graph1.html')
+    # if os.path.exists(network_graph1_path):
+    #     network_graph1_path = os.path.join(current_dir, 'network_graph1.html')
+    #     with open(network_graph1_path, 'rb') as f:
+    #         html_content2 = f.read()
+    # response_data_json = jsonify(response_data)
+    # response1 = make_response(html_content1)
+    # response1.headers.set('Content-Type', 'text/html')
+    # response2 = make_response(html_content2)
+    # response2.headers.set('Content-Type', 'text/html')
     
     return jsonify(response_data)
 

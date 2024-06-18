@@ -12,7 +12,9 @@
       "java, .net",
       "python, .net",
       "pega, .net",
-      "java, pega, python"
+      "java, pega, python",
+      "java, bigdata",
+      "python, bigdata"
     ],
     "companies": [
       "tcs",
